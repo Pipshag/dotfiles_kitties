@@ -1,0 +1,45 @@
+window {
+  margin: 0px;
+  border: 1px solid #494d64;
+  width: 40%;
+  border-radius: 4px;
+}
+
+#input {
+  margin: 8px;
+  border: none;
+  background-color: #44475a;
+}
+
+#inner-box {
+  padding: 0 8px;
+  border: none;
+}
+
+#outer-box {
+  border: none;
+  margin: 4px;
+}
+
+#scroll {
+  margin: 0px;
+  border: none;
+}
+
+#text {
+  color: #cad3f5;
+  border: none;
+}
+
+#entry.activatable #text {
+}
+
+#entry > * {
+}
+
+#entry:selected {
+  background-color: #494d64;
+}
+#entry:selected #text {
+  font-weight: bold;
+}

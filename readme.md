@@ -13,10 +13,7 @@ This is a vertical [waybar](https://github.com/Alexays/Waybar/) setup with match
 
 **Requires Font Awesome 6 Pro**.
 Well, really, just test with the free and find your own icons. I'm using the pro version.
-
-This [firefox theme](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-macchiato-green/) is a pretty good match.
-
-For nvim the catppuccin macchiato color scheme is a good match.
+This [firefox theme](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-macchiato-green/) and nvim catppuccin macchiato color scheme are a good matches.
 
 ### Screenshots
 

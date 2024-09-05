@@ -1,0 +1,1000 @@
+Script started on 2024-04-08 08:58:21+02:00 [TERM="xterm-kitty" TTY="/dev/pts/6" COLUMNS="184" LINES="9"]
+                                                                                                                                                                                        l]2;pipshag@sputnik:~/.config/wofi]1;~/.config/wofi]7;file://sputnik/home/pipshag/.config/wofi\[0m[27m[24m[J[38;2;255;121;198m♥[0m [K[166C[1;38;2;80;250;123m~/.config/wofi[0m [181D[?1h[?2004hl[32ml[39m[32ml[32ms[39m
+[0;1;2malias[0m
+[J[0mls   [Jlsa[J[A[A[0m[27m[24m[2C[32mls[39m[K[164C[1;38;2;80;250;123m~/.config/wofi[0m [179D[?1l[?2004l
+[J[A[4C
+[J]2;exa --icons]1;ls config  [34m [1mscripts[0m  [33m [1mstyle.css[0m   typescript
+                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi]1;~/.config/wofi]7;file://sputnik/home/pipshag/.config/wofi\[0m[27m[24m[J[38;2;255;121;198m♥[0m [K[166C[1;38;2;80;250;123m~/.config/wofi[0m [181D[?1h[?2004hc[1m[31mc[0m[39m
+[0;1;2malias[0m
+[J[0mcp[J[A[A[0m[27m[24m[2C[1m[31mc[0m[39m[K[165C[1;38;2;80;250;123m~/.config/wofi[0m [180D[1m[31mc[1m[31md[0m[39m[0m[32mc[0m[32md[39m
+[J[0;1;2mshell function[0m
+[J[0mcdr[J[A[A[0m[27m[24m[2C[32mcd[39m[K[164C[1;38;2;80;250;123m~/.config/wofi[0m [179D[32mc[32md[32m [39m
+[J[A[5C[32mc[32md[39m[39m s[4ms[24m
+[J[0;1;2mdirectory[0m
+[J[01;34mscripts[0m/[J[A[A[0m[27m[24m[2C[32mcd[39m [4ms[24m[K[162C[1;38;2;80;250;123m~/.config/wofi[0m [177D[4ms[4mc[24m
+[J[0;1;2mdirectory[0m
+[J[01;34mscripts[0m/[J[A[A[0m[27m[24m[2C[32mcd[39m [4msc[24m[K[161C[1;38;2;80;250;123m~/.config/wofi[0m [176D[4mc[4mr[24m
+[J[0;1;2mdirectory[0m
+[J[01;34mscripts[0m/[J[A[A[0m[27m[24m[2C[32mcd[39m [4mscr[24m[K[160C[1;38;2;80;250;123m~/.config/wofi[0m [175D[4mr[4mipts[1m[4m/[0m[24m
+[J[0;1;2mdirectory[0m
+[J[01;34mscripts[0m/[J[A[A[0m[27m[24m[2C[32mcd[39m [4mscripts[1m[4m/[0m[24m[K[155C[1;38;2;80;250;123m~/.config/wofi[0m [170D
+[J[J[0;2mno matching `directory', `ancestor directory', `recent directory', or `corrections' completions[0m[A[0m[27m[24m[2C[32mcd[39m [4mscripts[1m[4m/[0m[24m[K[155C[1;38;2;80;250;123m~/.config/wofi[0m [170D[4ms[24m[0m[24m [?1l[?2004l
+[J[A[12C
+[J]2;cd scripts]1;cd                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;121;198m♥[0m [K[145C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[181D[?1h[?2004hl[32ml[39m[32ml[39m[90ms[39m
+[0;1;2malias[0m
+[J[0ml    [Jla   [Jll   [Jls   [Jlsa[J[A[A[0m[27m[24m[2C[32ml[39m[90ms[39m[K[143C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[180D[32ml[32ms[39m
+[J[0;1;2malias[0m
+[J[0mls   [Jlsa[J[A[A[0m[27m[24m[2C[32mls[39m[K[143C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[179D[?1l[?2004l
+[J[A[4C
+[J]2;exa --icons]1;ls[32m [1mwofibluetooth.sh[0m   wofikeepassxc.sh  [32m [1mwofipowermenu.py[0m
+                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;121;198m♥[0m [K[145C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[181D[?1h[?2004h.[32m.[39m
+[0;1;2mancestor directory[0m
+[J[01;34m/home/pipshag/.config[0m/[J[A[A[0m[27m[24m[2C[32m.[39m[K[144C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[180D[39m 
+[J[A[2Cc[1m[31mc[0m[39m[1m[31mc[0m[39m[90md scripts[39m[9D
+[J[0;1;2malias[0m
+[J[0mcp[J[A[A[0m[27m[24m[2C[1m[31mc[0m[39m[90md scripts[39m[K[135C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[180D[1m[31mc[1m[31mh[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [8D
+[J[0;1;2mshell function[0m
+[J[0mcheck_venv                [Jchpwd_recent_add          [Jchpwd_recent_dirs         [Jchpwd_recent_filehandler  [Jchruby_prompt_info      [J[A[A[0m[27m[24m[2C[1m[31mch[0m[39m[K[143C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[179D[1m[31mc[1m[31mh[1m[31mm[0m[39m[1m[31mm[1m[31mo[0m[39m
+[J[0;1;2mexternal command[0m
+[J[0mchmod[J[A[A[0m[27m[24m[2C[1m[31mchmo[0m[39m[K[141C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[177D[1m[31mo[1m[31md[0m[39m[0m[32mc[0m[32mh[0m[32mm[0m[32mo[0m[32md[39m
+[J[0;1;2mexternal command[0m
+[J[0mchmod[J[A[A[0m[27m[24m[2C[32mchmod[39m[K[140C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[176D[32md[32m [39m
+[J[A[8C[32md[39m[39m [30m[104m[39m[49m[30m[104m[39m[49m[30m[104m[39m[49m
+[J[0;1;2mwho[0m
+[0ma  -- all
+g  -- group
+o  -- others
+u  -- owner
+[J[30m[104m(MORE)[39m[49m[6A[0m[27m[24m[2C[32mchmod[39m[K[140C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[175D=[30m[104m[39m[49m[30m[104m[39m[49m[30m[104m[39m[49m
+[J[0;1;2mexternal command[0m
+[0maomenc     avahi-browse  cargo-fmt  exempi  gif2webp  giftool  gpgme-json  guile-tools  indi_simulator_sqm  jiv  libevdev-tweak-device  pw-mididump  repo-elephant  rubberband-r3  smbd
+uclampset  untoast       vp8enc     yacc    yay                                                                                                                    
+[J[30m[104m(MORE)[39m[49m[4A[0m[27m[24m[2C[32mchmod[39m =[K[138C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[174D [30m[104m[39m[49m[30m[104m[39m[49m[30m[104m[39m[49m
+[J[0;1;2mwho[0m
+[0ma  -- all
+g  -- group
+o  -- others
+u  -- owner
+[J[30m[104m(MORE)[39m[49m[6A[0m[27m[24m[2C[32mchmod[39m[K[140C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[175D|
+[J[A[9C [30m[104m[39m[49m[30m[104m[39m[49m[30m[104m[39m[49m
+[J[0;1;2mwho[0m
+[0ma  -- all
+g  -- group
+o  -- others
+u  -- owner
+[J[30m[104m(MORE)[39m[49m[6A[0m[27m[24m[2C[32mchmod[39m[K[140C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[175D+
+[J[A[9C[30m[104m[39m[49m[30m[104m[39m[49m[30m[104m[39m[49m
+[J[0;1;2mprivilege[0m
+[0mr  -- read                                                                                                                                                                             
+s  -- set uid/gid                                                                                                                                                                      
+t  -- sticky                                                                                                                                                                           
+w  -- write                                                                                                                                                                            
+x  -- execute                                                                                                                                                                          
+[J[30m[104m(MORE)[39m[49m[7A[0m[27m[24m[2C[32mchmod[39m +[K[138C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[174Dx[30m[104m[39m[49m[30m[104m[39m[49m[30m[104m[39m[49m
+[J[0;1;2mprivilege[0m
+[0mX  -- execute only if directory or executable to another                                                                                                                               
+r  -- read                                                                                                                                                                             
+s  -- set uid/gid                                                                                                                                                                      
+t  -- sticky                                                                                                                                                                           
+w  -- write                                                                                                                                                                            
+[J[30m[104m(MORE)[39m[49m[7A[0m[27m[24m[2C[32mchmod[39m +x[K[137C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[173D 
+[J[A[11Cw[4mw[24m
+[J[0;1;2mfile[0m
+[J[0mwofikeepassxc.sh[J[A[A[0m[27m[24m[2C[32mchmod[39m +x [4mw[24m[K[135C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[171D[4mw[4mo[24m[4mo[4mf[24m
+[J[0;1;2mfile[0m
+[J[0mwofikeepassxc.sh[J[A[A[0m[27m[24m[2C[32mchmod[39m +x [4mwof[24m[K[133C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[169D[4mf[4me[24m[24mw[24mo[24mf[24me
+[J[0;1;2mfile[0m
+[J[0mwofikeepassxc.sh[J[A[A[0m[27m[24m[2C[32mchmod[39m +x wofe[K[132C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[168D[4mw[4mo[4mf[4mi[4mkeepassxc.sh[24m[1m [0m
+[J[0;1;2mfile[0m
+[J[0mwofikeepassxc.sh[J[A[A[0m[27m[24m[2C[32mchmod[39m +x [4mwofikeepassxc.sh[24m[1m [0m[K[119C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[155D
+[J[0;1;2mfile[0m
+[J[0mwofikeepassxc.sh[J[A[A[0m[27m[24m[2C[32mchmod[39m +x [4mwofikeepassxc.sh[24m[1m [0m[K[119C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[155D[0m [?1l[?2004l
+[J[A[27C
+[J]2;chmod +x wofikeepassxc.sh]1;chmod                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;121;198m♥[0m [K[145C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[181D[?1h[?2004hl[32ml[39m[32ml[39m[90ms[39m
+[0;1;2malias[0m
+[J[0ml    [Jla   [Jll   [Jls   [Jlsa[J[A[A[0m[27m[24m[2C[32ml[39m[90ms[39m[K[143C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[180D[32ml[32ms[39m
+[J[0;1;2malias[0m
+[J[0mls   [Jlsa[J[A[A[0m[27m[24m[2C[32mls[39m[K[143C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[179D[?1l[?2004l
+[J[A[4C
+[J]2;exa --icons]1;ls[32m [1mwofibluetooth.sh[0m  [32m [1mwofikeepassxc.sh[0m  [32m [1mwofipowermenu.py[0m
+                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;121;198m♥[0m [K[145C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[181D[?1h[?2004h.[32m.[39m
+[0;1;2mancestor directory[0m
+[J[01;34m/home/pipshag/.config[0m/[J[A[A[0m[27m[24m[2C[32m.[39m[K[144C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[180D[32m.[32m/[39m[4m[32m.[4m[32m/[24m[39m[30m[103m[39m[49m[30m[103m[39m[49m
+[J[0;1;2mexecutable file[0m
+[01;32mwofibluetooth.sh[0m*  [01;32mwofikeepassxc.sh[0m*  [01;32mwofipowermenu.py[0m*
+[J[0;2m[1mcommon substring:[0m [30m[103m./wofi[39m[49m[3A[0m[27m[24m[2C[4m[32m./[24m[39m[K[143C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[179D[4m[32m.[4m[32m/[4m[32mw[24m[39m[39m[4m.[39m[4m/[39m[4mw[24m[30m[103m[39m[49m[30m[103m[39m[49m
+[J[0;1;2mexecutable file[0m
+[01;32mwofibluetooth.sh[0m*  [01;32mwofikeepassxc.sh[0m*  [01;32mwofipowermenu.py[0m*
+[J[0;2m[1mcommon substring:[0m [30m[103m./wofi[39m[49m[3A[0m[27m[24m[2C[4m./w[24m[K[142C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[178D[4mw[4mo[24m[30m[103m[39m[49m[30m[103m[39m[49m
+[J[0;1;2mexecutable file[0m
+[01;32mwofibluetooth.sh[0m*  [01;32mwofikeepassxc.sh[0m*  [01;32mwofipowermenu.py[0m*
+[J[0;2m[1mcommon substring:[0m [30m[103m./wofi[39m[49m[3A[0m[27m[24m[2C[4m./wo[24m[K[141C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[177D[24m[32m.[24m[32m/[24m[32mw[24m[32mo[32mfibluetooth.sh[39m[30m[103m[39m[49m
+[0;1;2mexecutable file[0m[K[K
+[7mwofibluetooth.sh*[0m  [01;32mwofikeepassxc.sh[0m*  [01;32mwofipowermenu.py[0m*[K
+[J[0;2m[1mcommon substring:[0m [30m[103m./wofi[39m[49m[K[3A[0m[27m[24m[2C[32m./wofibluetooth.sh[39m[K[127C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[163D
+[1B[7mwofibluetooth.sh*[0m  [7mwofibluetooth.sh*[0m  [A[A[0m[27m[24m[2C[32m./wofibluetooth.sh[39m[K[127C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[163D[12D[32mk[32me[32me[32mp[32ma[32ms[32ms[32mx[32mc[3C[39m
+[1B[19C[7mwofikeepassxc.sh*[0m  [01;32mwofibluetooth.sh[0m*  [A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[K[127C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[163D
+[J[A[20C[1m [0m[30m[103m[39m[49m[30m[103m[39m[49m
+[J[0;1;2mfile[0m
+[01;32mwofibluetooth.sh[0m*  [01;32mwofikeepassxc.sh[0m*  [01;32mwofipowermenu.py[0m*
+[J[0;2m[1mcommon substring:[0m [30m[103mwofi[39m[49m[3A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m [0m[K[126C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[162D[0m [?1l[?2004l
+[J[A[20C
+[J]2;./wofikeepassxc.sh]1;./wofikeepassxc.sh./wofikeepassxc.sh: line 2: syntax error near unexpected token `('
+./wofikeepassxc.sh: line 2: `let list = (pass keepass | keepassxc-cli search ~/CloudBox/Sync/apps/KeeWeb/main.kdbx "" -k ~/CloudBox/Sync/keys/main.key)'
+                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;85;85m✖[0m [K[145C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[181D[?1h[?2004h[0m[27m[24m[J[38;2;255;85;85m✖[0m [K[170C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[206D[0m[27m[24m[J[38;2;255;85;85m✖[0m [K[159C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[195D
+Loading...[K[A[8D[32m./wofikeepassxc.sh[39m[1m;[0m[1B[K[A[21C[1B[2m    [0m[2m1[0m[2m  [0mls                                                                                                                                                                                            [K[K
+[2m    [0m[2m2[0m[2m  [0mcd scripts                                                                                                                                                                                    [K[K
+[2m    [0m[2m3[0m[2m  [0mls                                                                                                                                                                                            [K[K
+[2m    [0m[2m4[0m[2m  [0mchmod +x wofikeepassxc.sh                                                                                                                                                                     [K[K
+[2m    [0m[2m5[0m[2m  [0mls                                                                                                                                                                                            [K[K
+[J[7m    6  ./wofikeepassxc.sh                                                                                                                                                                            [0m[K[J[6A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m;[0m[K[140C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[176D
+[5B[7m    6  ./wofikeepassxc.sh                                                                                                                                                                            [0m[K[7m    6  ./wofikeepassxc.sh                                                                                                                                                                            [0m[K[6A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m;[0m[K[140C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[176D
+[J[A[21C[0m [?1l[?2004l
+[J[A[20C
+[J]2;./wofikeepassxc.sh]1;./wofikeepassxc.sh./wofikeepassxc.sh: line 2: syntax error near unexpected token `('
+./wofikeepassxc.sh: line 2: `let list = (keepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx")'
+                                                                                                                                                                                                      ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;85;85m✖[0m [K[159C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[195D[?1h[?2004h
+Loading...[K[A[8D[32m./wofikeepassxc.sh[39m[1m;[0m[1B[K[A[21C[1B[2m    [0m[2m1[0m[2m  [0mls                                                                                                                                                                                            [K[K
+[2m    [0m[2m2[0m[2m  [0mcd scripts                                                                                                                                                                                    [K[K
+[2m    [0m[2m3[0m[2m  [0mls                                                                                                                                                                                            [K[K
+[2m    [0m[2m4[0m[2m  [0mchmod +x wofikeepassxc.sh                                                                                                                                                                     [K[K
+[2m    [0m[2m5[0m[2m  [0mls                                                                                                                                                                                            [K[K
+[J[7m    6  ./wofikeepassxc.sh                                                                                                                                                                            [0m[K[J[6A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m;[0m[K[140C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[176D
+[5B[7m    6  ./wofikeepassxc.sh                                                                                                                                                                            [0m[K[7m    6  ./wofikeepassxc.sh                                                                                                                                                                            [0m[K[6A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m;[0m[K[140C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[176D
+[J[A[21C[0m [?1l[?2004l
+[J[A[20C
+[J]2;./wofikeepassxc.sh]1;./wofikeepassxc.sh./wofikeepassxc.sh: line 2: let: =: syntax error: operand expected (error token is "=")
+./wofikeepassxc.sh: line 3: syntax error near unexpected token `('
+./wofikeepassxc.sh: line 3: `let entry = ($list | wofi --dmenu)'
+                                                                                                                                                                                                      ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;85;85m✖[0m [K[159C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[195D[?1h[?2004h
+Loading...[K[A[8D[32m./wofikeepassxc.sh[39m[1m;[0m[1B[K[A[21C[1B[2m    [0m[2m1[0m[2m  [0mls                                                                                                                                                                                            [K[K
+[2m    [0m[2m2[0m[2m  [0mcd scripts                                                                                                                                                                                    [K[K
+[2m    [0m[2m3[0m[2m  [0mls                                                                                                                                                                                            [K[K
+[2m    [0m[2m4[0m[2m  [0mchmod +x wofikeepassxc.sh                                                                                                                                                                     [K[K
+[2m    [0m[2m5[0m[2m  [0mls                                                                                                                                                                                            [K[K
+[J[7m    6  ./wofikeepassxc.sh                                                                                                                                                                            [0m[K[J[6A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m;[0m[K[140C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[176D
+[5B[7m    6  ./wofikeepassxc.sh                                                                                                                                                                            [0m[K[7m    6  ./wofikeepassxc.sh                                                                                                                                                                            [0m[K[6A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m;[0m[K[140C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[176D
+[J[A[21C[0m [?1l[?2004l
+[J[A[20C
+[J]2;./wofikeepassxc.sh]1;./wofikeepassxc.sh./wofikeepassxc.sh: line 2: let: ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx: syntax error: operand expected (error token is "/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx")
+./wofikeepassxc.sh: line 3: syntax error near unexpected token `('
+./wofikeepassxc.sh: line 3: `let entry = ($list | wofi --dmenu)'
+                                                                                                                                                                                                      ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;85;85m✖[0m [K[159C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[195D[?1h[?2004hkkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"[87D[7mk[7me[7me[7mp[7ma[7ms[7ms[7mx[7mc[7m-[7mc[7ml[7mi[7m [7ms[7me[7ma[7mr[7mc[7mh[7m [7m"[7m~[7m/[7mF[7mi[7ml[7ma[7mr[7mk[7mi[7mv[7m/[7mK[7me[7my[7ms[7m/[7mK[7me[7me[7mp[7ma[7ms[7ms[7mX[7mC[7m/[7m1[7mK[7mx[7m0[7mu[7mw[7m1[7mO[7mf[7mv[7ma[7mR[7mW[7mS[7mz[7mJ[7mK[7mT[7mI[7mB[7mb[7mc[7mX[7mf[7mO[7m-[7ml[7mA[7mQ[7m2[7mM[7mo[7mF[7m.[7mk[7md[7mb[7mx[7m"[27m[87D[27mk[27me[27me[27mp[27ma[27ms[27ms[27mx[27mc[27m-[27mc[27ml[27mi[27m [27ms[27me[27ma[27mr[27mc[27mh[27m [27m"[27m~[27m/[27mF[27mi[27ml[27ma[27mr[27mk[27mi[27mv[27m/[27mK[27me[27my[27ms[27m/[27mK[27me[27me[27mp[27ma[27ms[27ms[27mX[27mC[27m/[27m1[27mK[27mx[27m0[27mu[27mw[27m1[27mO[27mf[27mv[27ma[27mR[27mW[27mS[27mz[27mJ[27mK[27mT[27mI[27mB[27mb[27mc[27mX[27mf[27mO[27m-[27ml[27mA[27mQ[27m2[27mM[27mo[27mF[27m.[27mk[27md[27mb[27mx[27m"[87D[32mk[32me[32me[32mp[32ma[32ms[32ms[32mx[32mc[32m-[32mc[32ml[32mi[39m[8C[33m"[33m~[33m/[33mF[33mi[33ml[33ma[33mr[33mk[33mi[33mv[33m/[33mK[33me[33my[33ms[33m/[33mK[33me[33me[33mp[33ma[33ms[33ms[33mX[33mC[33m/[33m1[33mK[33mx[33m0[33mu[33mw[33m1[33mO[33mf[33mv[33ma[33mR[33mW[33mS[33mz[33mJ[33mK[33mT[33mI[33mB[33mb[33mc[33mX[33mf[33mO[33m-[33ml[33mA[33mQ[33m2[33mM[33mo[33mF[33m.[33mk[33md[33mb[33mx[33m"[39m[?1l[?2004l
+[J[A[89C
+]2;keepassxc-cli search ]1;keepassxc-cliMissing positional argument(s).
+
+Usage: keepassxc-cli search [options] database term
+Find entries quickly.
+
+Options:
+  -q, --quiet                    Silence password prompt and other secondary
+                                 outputs.
+  -k, --key-file <path>          Key file of the database.
+  --no-password                  Deactivate password key for the database.
+  -y, --yubikey <slot[:serial]>  Yubikey slot and optional serial used to
+                                 access the database (e.g., 1:7370001).
+  -h, --help                     Display this help.
+
+Arguments:
+  database                       Path of the database.
+  term                           Search term.
+                                                                                                                                                                                                      ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;85;85m✖[0m [K[159C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[195D[?1h[?2004h[0m[27m[24m[J[38;2;255;85;85m✖[0m [K[161C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[197D
+Loading...[K[A[8D[32mkeepassxc-cli[39m search [33m"~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"[39m[1m;[0m[1B[K[A[90C[1B[2m    [0m[2m1[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m2[0m[2m  [0mcd scripts                                                                                                                                                                                      [K[K
+[2m    [0m[2m3[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m4[0m[2m  [0mchmod +x wofikeepassxc.sh                                                                                                                                                                       [K[K
+[2m    [0m[2m5[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m6[0m[2m  [0m./wofikeepassxc.sh                                                                                                                                                                              [K[K
+[J[7m    7  keepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"                                                                                                         [0m[K[J[7A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [33m"~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"[39m[1m;[0m[K[73C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[109D
+[6B[7m    7  keepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"                                                                                                         [0m[K[7m    7  keepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"                                                                                                         [0m[K[7A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [33m"~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"[39m[1m;[0m[K[73C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[109D
+[J[A[90C[88D[39mk[39me[39me[39mp[39ma[39ms[39ms[39mx[39mc[39m-[39mc[39ml[39mi[8C[39m"[39m~[39m/[39mF[39mi[39ml[39ma[39mr[39mk[39mi[39mv[39m/[39mK[39me[39my[39ms[39m/[39mK[39me[39me[39mp[39ma[39ms[39ms[39mX[39mC[39m/[39m1[39mK[39mx[39m0[39mu[39mw[39m1[39mO[39mf[39mv[39ma[39mR[39mW[39mS[39mz[39mJ[39mK[39mT[39mI[39mB[39mb[39mc[39mX[39mf[39mO[39m-[39ml[39mA[39mQ[39m2[39mM[39mo[39mF[39m.[39mk[39md[39mb[39mx[39m"[1C[0m [87D[32mk[32me[32me[32mp[32ma[32ms[32ms[32mx[32mc[32m-[32mc[32ml[32mi[39m[8C[33m"[33m~[33m/[33mF[33mi[33ml[33ma[33mr[33mk[33mi[33mv[33m/[33mK[33me[33my[33ms[33m/[33mK[33me[33me[33mp[33ma[33ms[33ms[33mX[33mC[33m/[33m1[33mK[33mx[33m0[33mu[33mw[33m1[33mO[33mf[33mv[33ma[33mR[33mW[33mS[33mz[33mJ[33mK[33mT[33mI[33mB[33mb[33mc[33mX[33mf[33mO[33m-[33ml[33mA[33mQ[33m2[33mM[33mo[33mF[33m.[33mk[33md[33mb[33mx[33m"[39m
+[J[J[0;2mno matching `directory', `file', `ancestor directory', `recent directory', or `corrections' completions[0m[A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [33m"~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"[39m[K[74C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[110D[33m"[33m [39m
+[J[A[90C[33m"[39m[39m [30m[103m[39m[49m[30m[103m[39m[49m
+[J[0;1;2mfile[0m
+[01;32mwofibluetooth.sh[0m*  [01;32mwofikeepassxc.sh[0m*  [01;32mwofipowermenu.py[0m*
+[J[0;2m[1mcommon substring:[0m [30m[103mwofi[39m[49m[3A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [33m"~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"[39m[K[74C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[109Dg
+[J[0;1;2mrecent directory[0m
+[J[01;34m/etc/systemd/system/getty.target.wants[0m/      [J[34;42m/mnt/fireball/Kod/Sources/goose-zmk-config[0m/[J[A[A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [33m"~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"[39m g[K[72C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[108Do
+[J[0;1;2mrecent directory[0m
+[J[34;42m/mnt/fireball/Kod/Sources/goose-zmk-config[0m/[J[A[A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [33m"~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"[39m go[K[71C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[107Do
+[J[0;1;2mrecent directory[0m
+[J[34;42m/mnt/fireball/Kod/Sources/goose-zmk-config[0m/[J[A[A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [33m"~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"[39m goo[K[70C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[106Dg
+[J[0;1;2mrecent directory[0m
+[J[34;42m/mnt/fireball/Kod/Sources/goose-zmk-config[0m/[J[A[A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [33m"~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"[39m goog[K[69C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[105Dl
+[J[J[0;2mno matching `directory', `file', `ancestor directory', `recent directory', or `corrections' completions[0m[A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [33m"~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"[39m googl[K[68C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[104De
+[J[J[0;2mno matching `directory', `file', `ancestor directory', `recent directory', or `corrections' completions[0m[A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [33m"~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"[39m google[K[67C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[103D[?1l[?2004l
+[J[A[96C
+[J]2;keepassxc-cli search  google]1;keepassxc-cliFailed to open database file ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx: not found
+                                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;85;85m✖[0m [K[161C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[197D[?1h[?2004hl[32ml[39m[32ml[39m[90ms[39m
+[0;1;2malias[0m
+[J[0ml    [Jla   [Jll   [Jls   [Jlsa[J[A[A[0m[27m[24m[2C[32ml[39m[90ms[39m[K[159C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[196D[32ml[32ml[39m
+[J[0;1;2malias[0m
+[J[0mll[J[A[A[0m[27m[24m[2C[32mll[39m[K[159C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[195D[32ml[32ml[32m [39m
+[J[A[5C[32ml[32ml[39m[39m [30m[103m[39m[49m[30m[103m[39m[49m
+[J[0;1;2mfile[0m
+[01;32mwofibluetooth.sh[0m*  [01;32mwofikeepassxc.sh[0m*  [01;32mwofipowermenu.py[0m*
+[J[0;2m[1mcommon substring:[0m [30m[103mwofi[39m[49m[3A[0m[27m[24m[2C[32mll[39m[K[159C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[194D[39m~[39m ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[64Dll [7m~[7m/[7mF[7mi[7ml[7ma[7mr[7mk[7mi[7mv[7m/[7mK[7me[7my[7ms[7m/[7mK[7me[7me[7mp[7ma[7ms[7ms[7mX[7mC[7m/[7m1[7mK[7mx[7m0[7mu[7mw[7m1[7mO[7mf[7mv[7ma[7mR[7mW[7mS[7mz[7mJ[7mK[7mT[7mI[7mB[7mb[7mc[7mX[7mf[7mO[7m-[7ml[7mA[7mQ[7m2[7mM[7mo[7mF[7m.[7mk[7mdbx[27m[64D[27m~[27m/[27mF[27mi[27ml[27ma[27mr[27mk[27mi[27mv[27m/[27mK[27me[27my[27ms[27m/[27mK[27me[27me[27mp[27ma[27ms[27ms[27mX[27mC[27m/[27m1[27mK[27mx[27m0[27mu[27mw[27m1[27mO[27mf[27mv[27ma[27mR[27mW[27mS[27mz[27mJ[27mK[27mT[27mI[27mB[27mb[27mc[27mX[27mf[27mO[27m-[27ml[27mA[27mQ[27m2[27mM[27mo[27mF[27m.[27mk[27md[27mb[27mx[67D[32ml[32ml[39m [4m~[4m/[4mF[4mi[4ml[4ma[4mr[4mk[4mi[4mv[4m/[4mK[4me[4my[4ms[4m/[4mK[4me[4me[4mp[4ma[4ms[4ms[4mX[4mC[4m/[4m1[4mK[4mx[4m0[4mu[4mw[4m1[4mO[4mf[4mv[4ma[4mR[4mW[4mS[4mz[4mJ[4mK[4mT[4mI[4mB[4mb[4mc[4mX[4mf[4mO[4m-[4ml[4mA[4mQ[4m2[4mM[4mo[4mF[4m.[4mk[4md[4mb[4mx[24m[?1l[?2004l
+[J[A[69C
+[J]2;exa --icons --long --group --all ]1;ll.[1;33mr[31mw[4;32mx[0m[33mr[31mw[32mx[33mr[31mw[32mx[0m [1;32m51k[0m [1;33mpipshag[0m [1;33mpipshag[0m [34m 1 Apr 21:54[0m [32m [36m/home/pipshag/Filarkiv/Keys/KeepassXC/[1;32m1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[0m
+                                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;121;198m♥[0m [K[161C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[197D[?1h[?2004h
+Loading...[K[A[8D[32mll[39m [4m~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[24m[1m;[0m[1B[K[A[70C[1B[2m    [0m[2m1[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m2[0m[2m  [0mcd scripts                                                                                                                                                                                      [K[K
+[2m    [0m[2m3[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m4[0m[2m  [0mchmod +x wofikeepassxc.sh                                                                                                                                                                       [K[K
+[2m    [0m[2m5[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m6[0m[2m  [0m./wofikeepassxc.sh                                                                                                                                                                              [K[K
+[2m    [0m[2m7[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"                                                                                                         [K[K
+[2m    [0m[2m8[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx" google                                                                                                  [K[K
+[J[7m    9  ll ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx                                                                                                                             [0m[K[J[9A[0m[27m[24m[2C[32mll[39m [4m~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[24m[1m;[0m[K[93C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[129D
+[8B[7m    9  ll ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx                                                                                                                             [0m[K[7m    9  ll ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx                                                                                                                             [0m[K[9A[0m[27m[24m[2C[32mll[39m [4m~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[24m[1m;[0m[K[93C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[129D[68D[32mk[32me[32me[24m[32mp[24m[32ma[24m[32ms[24m[32ms[24m[32mx[24m[32mc[24m[32m-[24m[32mc[24m[32ml[24m[32mi[39m[24m [24ms[24me[24ma[24mr[24mc[24mh[24m [24m[33m"[24m[33m~[24m[33m/[24m[33mF[24m[33mi[24m[33ml[24m[33ma[24m[33mr[24m[33mk[24m[33mi[24m[33mv[24m[33m/[24m[33mK[24m[33me[24m[33my[24m[33ms[24m[33m/[24m[33mK[24m[33me[24m[33me[24m[33mp[24m[33ma[24m[33ms[24m[33ms[24m[33mX[24m[33mC[24m[33m/[24m[33m1[24m[33mK[24m[33mx[24m[33m0[24m[33mu[24m[33mw[24m[33m1[24m[33mO[24m[33mf[24m[33mv[24m[33ma[24m[33mR[24m[33mW[24m[33mS[24m[33mz[24m[33mJ[24m[33mK[24m[33mT[24m[33mI[0m[33mB[33mbcXfO-lAQ2MoF.kdbx"[39m google[1m;[0m
+[7B[7m    8  keepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx" google                                                                                                  [0m[K[1B[2m    [0m[2m9[0m[2m  [0mll ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx                                                                                                                             [K[9A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [33m"~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"[39m google[1m;[0m[K[66C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[102D
+[J[A[97C[95D[39mk[39me[39me[39mp[39ma[39ms[39ms[39mx[39mc[39m-[39mc[39ml[39mi[8C[39m"[39m~[39m/[39mF[39mi[39ml[39ma[39mr[39mk[39mi[39mv[39m/[39mK[39me[39my[39ms[39m/[39mK[39me[39me[39mp[39ma[39ms[39ms[39mX[39mC[39m/[39m1[39mK[39mx[39m0[39mu[39mw[39m1[39mO[39mf[39mv[39ma[39mR[39mW[39mS[39mz[39mJ[39mK[39mT[39mI[39mB[39mb[39mc[39mX[39mf[39mO[39m-[39ml[39mA[39mQ[39m2[39mM[39mo[39mF[39m.[39mk[39md[39mb[39mx[39m"[8C[0m [94D[32mk[32me[32me[32mp[32ma[32ms[32ms[32mx[32mc[32m-[32mc[32ml[32mi[39m[8C[33m"[33m~[33m/[33mF[33mi[33ml[33ma[33mr[33mk[33mi[33mv[33m/[33mK[33me[33my[33ms[33m/[33mK[33me[33me[33mp[33ma[33ms[33ms[33mX[33mC[33m/[33m1[33mK[33mx[33m0[33mu[33mw[33m1[33mO[33mf[33mv[33ma[33mR[33mW[33mS[33mz[33mJ[33mK[33mT[33mI[33mB[33mb[33mc[33mX[33mf[33mO[33m-[33ml[33mA[33mQ[33m2[33mM[33mo[33mF[33m.[33mk[33md[33mb[33mx[33m"[39m[7C
+[J[J[0;2mno matching `directory', `file', `ancestor directory', `recent directory', or `corrections' completions[0m[A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [33m"~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"[39m google[K[67C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[103D0
+[J[J[0;2mno matching `directory', `file', `ancestor directory', `recent directory', or `corrections' completions[0m[A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [33m"~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"[39m google0[K[66C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[102D 
+[J[J[0;2mno matching `directory', `file', `ancestor directory', `recent directory', or `corrections' completions[0m[A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [33m"~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"[39m google[K[67C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[103D0
+[J[J[0;2mno matching `directory', `file', `ancestor directory', `recent directory', or `corrections' completions[0m[A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [33m"~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"[39m google0[K[66C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[102D 
+[J[J[0;2mno matching `directory', `file', `ancestor directory', `recent directory', or `corrections' completions[0m[A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [33m"~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"[39m google[K[67C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[103D 
+[J[A[97C[30m[103m[39m[49m[30m[103m[39m[49m
+[J[0;1;2mfile[0m
+[01;32mwofibluetooth.sh[0m*  [01;32mwofikeepassxc.sh[0m*  [01;32mwofipowermenu.py[0m*
+[J[0;2m[1mcommon substring:[0m [30m[103mwofi[39m[49m[3A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [33m"~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"[39m google[K[67C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[102D
+[J[J[0;2mno matching `directory', `file', `ancestor directory', `recent directory', or `corrections' completions[0m[A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [33m"~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"[39m google[K[67C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[103D
+[J[0;1;2mrecent directory[0m
+[J[01;34m/etc/systemd/system/getty.target.wants[0m/      [J[34;42m/mnt/fireball/Kod/Sources/goose-zmk-config[0m/[J[A[A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [33m"~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"[39m google[K[67C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[108D[30m[103m[39m[49m[30m[103m[39m[49m
+[J[0;1;2mfile[0m
+[01;32mwofibluetooth.sh[0m*  [01;32mwofikeepassxc.sh[0m*  [01;32mwofipowermenu.py[0m*
+[J[0;2m[1mcommon substring:[0m [30m[103mwofi[39m[49m[3A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [33m"~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"[39m google[K[67C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[109D
+[J[J[0;2mno matching `directory', `file', `ancestor directory', `recent directory', or `corrections' completions[0m[A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [33m"~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"[39m google[K[67C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[110D[33mx[39m[39m google [8D[33mx[33m [33mg[33mo[33mo[33mg[33ml[33me[39m
+[J[J[0;2mno matching `directory', `file', `ancestor directory', `recent directory', or `corrections' completions[0m[A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [33m"~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google[39m[K[68C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[111D
+[J[J[0;2mno matching `directory', `file', `ancestor directory', `recent directory', or `corrections' completions[0m[A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [33m"~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google[39m[K[68C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[177D[1C[30m[103m[39m[49m[30m[103m[39m[49m
+[J[0;1;2mfile[0m
+[01;32mwofibluetooth.sh[0m*  [01;32mwofikeepassxc.sh[0m*  [01;32mwofipowermenu.py[0m*
+[J[0;2m[1mcommon substring:[0m [30m[103m"wofi[39m[49m[3A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [33m"~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google[39m[K[68C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[176D[1C[30m[103m[39m[49m[30m[103m[39m[49m
+[J[0;1;2mfile[0m
+[01;32mwofibluetooth.sh[0m*  [01;32mwofikeepassxc.sh[0m*  [01;32mwofipowermenu.py[0m*
+[J[0;2m[1mcommon substring:[0m [30m[103m"wofi[39m[49m[3A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [33m"~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google[39m[K[68C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[175D[33m~[33m/[33mF[33mi[33ml[33ma[33mr[33mk[33mi[33mv[33m/[33mK[33me[33my[33ms[33m/[33mK[33me[33me[33mp[33ma[33ms[33ms[33mX[33mC[33m/[33m1[33mK[33mx[33m0[33mu[33mw[33m1[33mO[33mf[33mv[33ma[33mR[33mW[33mS[33mz[33mJ[33mK[33mT[33mI[33mB[33mb[33mc[33mX[33mf[33mO[33m-[33ml[33mA[33mQ[33m2[33mM[33mo[33mF[33m.[33mk[33md[33mb[33mx[33m [33mg[33mo[33mo[33mg[33ml[33me[39m[39m [72D[39m[4m~[39m[4m/[39m[4mF[39m[4mi[39m[4ml[39m[4ma[39m[4mr[39m[4mk[39m[4mi[39m[4mv[39m[4m/[39m[4mK[39m[4me[39m[4my[39m[4ms[39m[4m/[39m[4mK[39m[4me[39m[4me[39m[4mp[39m[4ma[39m[4ms[39m[4ms[39m[4mX[39m[4mC[39m[4m/[39m[4m1[39m[4mK[39m[4mx[39m[4m0[39m[4mu[39m[4mw[39m[4m1[39m[4mO[39m[4mf[39m[4mv[39m[4ma[39m[4mR[39m[4mW[39m[4mS[39m[4mz[39m[4mJ[39m[4mK[39m[4mT[39m[4mI[39m[4mB[39m[4mb[39m[4mc[39m[4mX[39m[4mf[39m[4mO[39m[4m-[39m[4ml[39m[4mA[39m[4mQ[39m[4m2[39m[4mM[39m[4mo[39m[4mF[39m[4m.[39m[4mk[39m[4md[39m[4mb[39m[4mx[24m[39m [39mg[39mo[39mo[39mg[39ml[39me[71D
+[J[0;1;2mfile[0m
+[J[01;32m1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[0m*[J[A[A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [4m~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[24m google[K[69C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[176D[?1l[?2004l
+[J[A[23C
+[J]2;keepassxc-cli search  google]1;keepassxc-cliEnter password to unlock /home/pipshag/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx: 
+/Billigteknik Sweden AB/google.com
+/Billigteknik Sweden AB/google.com
+/Billigteknik Sweden AB/google.com
+/KeePassXC-Browser Passwords/Google
+                                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;121;198m♥[0m [K[153C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m6s[0m [197D[?1h[?2004h
+Loading...[K[A[8D[32mkeepassxc-cli[39m search [4m~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[24m google[1m;[0m[1B[K[A[95C[1B[2m    [0m[2m1[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m2[0m[2m  [0mcd scripts                                                                                                                                                                                      [K[K
+[2m    [0m[2m3[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m4[0m[2m  [0mchmod +x wofikeepassxc.sh                                                                                                                                                                       [K[K
+[2m    [0m[2m5[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m6[0m[2m  [0m./wofikeepassxc.sh                                                                                                                                                                              [K[K
+[2m    [0m[2m7[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"                                                                                                         [K[K
+[2m    [0m[2m8[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx" google                                                                                                  [K[K
+[2m    [0m[2m9[0m[2m  [0mll ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx                                                                                                                             [K[K
+[J[7m   10  keepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [0m[K[J[10A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [4m~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[24m google[1m;[0m[K[60C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m6s[0m [104D
+[9B[7m   10  keepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [0m[K[7m   10  keepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [0m[K[10A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [4m~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[24m google[1m;[0m[K[60C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m6s[0m [104D
+[J[A[95C[0m [?1l[?2004l
+[J[A[94C
+[J]2;keepassxc-cli search  google]1;keepassxc-cliEnter password to unlock /home/pipshag/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx: 
+Error while reading the database: Invalid credentials were provided, please try again.
+If this reoccurs, then your database file may be corrupt. (HMAC mismatch)
+                                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;85;85m✖[0m [K[153C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m5s[0m [197D[?1h[?2004h.[32m.[39m[32m.[39m[90m/wofikeepassxc.sh[39m[17D
+[0;1;2mancestor directory[0m
+[J[01;34m/home/pipshag/.config[0m/[J[A[A[0m[27m[24m[2C[32m.[39m[90m/wofikeepassxc.sh[39m[K[135C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m5s[0m [196D[32m.[32m/[39m[4m[32m.[4m[32m/[24m[39m[30m[103m[39m[49m[30m[103m[39m[49m
+[J[0;1;2mexecutable file[0m
+[01;32mwofibluetooth.sh[0m*  [01;32mwofikeepassxc.sh[0m*  [01;32mwofipowermenu.py[0m*
+[J[0;2m[1mcommon substring:[0m [30m[103m./wofi[39m[49m[3A[0m[27m[24m[2C[4m[32m./[24m[39m[90mwofikeepassxc.sh[39m[K[135C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m5s[0m [195D[24m[32m.[24m[32m/[32mw[32mo[32mf[32mi[32mb[32ml[32mu[32me[32mt[32mo[32mo[32mt[32mh[32m.[32ms[32mh[39m[30m[103m[39m[49m
+[0;1;2mexecutable file[0m[K[K
+[7mwofibluetooth.sh*[0m  [01;32mwofikeepassxc.sh[0m*  [01;32mwofipowermenu.py[0m*[K
+[J[0;2m[1mcommon substring:[0m [30m[103m./wofi[39m[49m[K[3A[0m[27m[24m[2C[32m./wofibluetooth.sh[39m[K[135C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m5s[0m [179D
+[1B[7mwofibluetooth.sh*[0m  [7mwofibluetooth.sh*[0m  [A[A[0m[27m[24m[2C[32m./wofibluetooth.sh[39m[K[135C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m5s[0m [179D[12D[32mk[32me[32me[32mp[32ma[32ms[32ms[32mx[32mc[3C[39m
+[1B[19C[7mwofikeepassxc.sh*[0m  [01;32mwofibluetooth.sh[0m*  [A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[K[135C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m5s[0m [179D
+[J[A[20C[1m [0m[30m[103m[39m[49m[30m[103m[39m[49m
+[J[0;1;2mfile[0m
+[01;32mwofibluetooth.sh[0m*  [01;32mwofikeepassxc.sh[0m*  [01;32mwofipowermenu.py[0m*
+[J[0;2m[1mcommon substring:[0m [30m[103mwofi[39m[49m[3A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m [0m[K[134C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m5s[0m [178D[0m [?1l[?2004l
+[J[A[20C
+[J]2;./wofikeepassxc.sh]1;./wofikeepassxc.sh./wofikeepassxc.sh: line 2: let: =: syntax error: operand expected (error token is "=")
+./wofikeepassxc.sh: line 3: syntax error near unexpected token `('
+./wofikeepassxc.sh: line 3: `let entry = ($list | wofi --dmenu)'
+                                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;85;85m✖[0m [K[161C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[197D[?1h[?2004h
+Loading...[K[A[8D[32m./wofikeepassxc.sh[39m[1m;[0m[1B[K[A[21C[1B[2m    [0m[2m1[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m2[0m[2m  [0mcd scripts                                                                                                                                                                                      [K[K
+[2m    [0m[2m3[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m4[0m[2m  [0mchmod +x wofikeepassxc.sh                                                                                                                                                                       [K[K
+[2m    [0m[2m5[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m6[0m[2m  [0m./wofikeepassxc.sh                                                                                                                                                                              [K[K
+[2m    [0m[2m7[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"                                                                                                         [K[K
+[2m    [0m[2m8[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx" google                                                                                                  [K[K
+[2m    [0m[2m9[0m[2m  [0mll ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx                                                                                                                             [K[K
+[2m   [0m[2m10[0m[2m  [0mkeepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [K[K
+[J[7m   11  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[J[11A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m;[0m[K[142C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[178D
+[10B[7m   11  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[7m   11  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[11A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m;[0m[K[142C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[178D
+[J[A[21C[0m [?1l[?2004l
+[J[A[20C
+[J]2;./wofikeepassxc.sh]1;./wofikeepassxc.sh./wofikeepassxc.sh: line 2: let: =: syntax error: operand expected (error token is "=")
+./wofikeepassxc.sh: line 3: let: =: syntax error: operand expected (error token is "=")
+
+(wofi:245209): Gtk-[1;33mWARNING[0m **: [34m09:02:20.150[0m: Theme parsing error: <data>:4:7: 'width' is not a valid property name
+
+(wofi:245209): Gtk-[1;35mCRITICAL[0m **: [34m09:02:20.165[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+
+(wofi:245209): Gtk-[1;35mCRITICAL[0m **: [34m09:02:20.188[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+
+(wofi:245209): Gtk-[1;35mCRITICAL[0m **: [34m09:02:23.252[0m: gtk_widget_get_visible: assertion 'GTK_IS_WIDGET (widget)' failed
+google
+./wofikeepassxc.sh: line 4: syntax error near unexpected token `{'
+./wofikeepassxc.sh: line 4: `if ($entry != "") {'
+                                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;85;85m✖[0m [K[153C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m3s[0m [197D[?1h[?2004h
+Loading...[K[A[8D[32m./wofikeepassxc.sh[39m[1m;[0m[1B[K[A[21C[1B[2m    [0m[2m1[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m2[0m[2m  [0mcd scripts                                                                                                                                                                                      [K[K
+[2m    [0m[2m3[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m4[0m[2m  [0mchmod +x wofikeepassxc.sh                                                                                                                                                                       [K[K
+[2m    [0m[2m5[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m6[0m[2m  [0m./wofikeepassxc.sh                                                                                                                                                                              [K[K
+[2m    [0m[2m7[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"                                                                                                         [K[K
+[2m    [0m[2m8[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx" google                                                                                                  [K[K
+[2m    [0m[2m9[0m[2m  [0mll ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx                                                                                                                             [K[K
+[2m   [0m[2m10[0m[2m  [0mkeepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [K[K
+[J[7m   11  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[J[11A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m;[0m[K[134C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m3s[0m [178D
+[10B[7m   11  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[7m   11  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[11A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m;[0m[K[134C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m3s[0m [178D
+[J[A[21C[0m [?1l[?2004l
+[J[A[20C
+[J]2;./wofikeepassxc.sh]1;./wofikeepassxc.sh./wofikeepassxc.sh: line 2: let: =: syntax error: operand expected (error token is "=")
+./wofikeepassxc.sh: line 3: let: =: syntax error: operand expected (error token is "=")
+
+(wofi:245455): Gtk-[1;33mWARNING[0m **: [34m09:02:38.912[0m: Theme parsing error: <data>:4:7: 'width' is not a valid property name
+
+(wofi:245455): Gtk-[1;35mCRITICAL[0m **: [34m09:02:38.927[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+
+(wofi:245455): Gtk-[1;35mCRITICAL[0m **: [34m09:02:38.945[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+
+(wofi:245455): Gtk-[1;35mCRITICAL[0m **: [34m09:02:38.951[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+
+(wofi:245455): Gtk-[1;35mCRITICAL[0m **: [34m09:02:41.507[0m: gtk_widget_get_visible: assertion 'GTK_IS_WIDGET (widget)' failed
+google
+./wofikeepassxc.sh: line 4: syntax error near unexpected token `{'
+./wofikeepassxc.sh: line 4: `if ($entry != "") {'
+                                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;85;85m✖[0m [K[153C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m2s[0m [197D[?1h[?2004h
+Loading...[K[A[8D[32m./wofikeepassxc.sh[39m[1m;[0m[1B[K[A[21C[1B[2m    [0m[2m1[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m2[0m[2m  [0mcd scripts                                                                                                                                                                                      [K[K
+[2m    [0m[2m3[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m4[0m[2m  [0mchmod +x wofikeepassxc.sh                                                                                                                                                                       [K[K
+[2m    [0m[2m5[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m6[0m[2m  [0m./wofikeepassxc.sh                                                                                                                                                                              [K[K
+[2m    [0m[2m7[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"                                                                                                         [K[K
+[2m    [0m[2m8[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx" google                                                                                                  [K[K
+[2m    [0m[2m9[0m[2m  [0mll ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx                                                                                                                             [K[K
+[2m   [0m[2m10[0m[2m  [0mkeepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [K[K
+[J[7m   11  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[J[11A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m;[0m[K[134C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m2s[0m [178D
+[10B[7m   11  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[7m   11  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[11A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m;[0m[K[134C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m2s[0m [178D
+[J[A[21C[0m [?1l[?2004l
+[J[A[20C
+[J]2;./wofikeepassxc.sh]1;./wofikeepassxc.sh./wofikeepassxc.sh: line 2: let: =: syntax error: operand expected (error token is "=")
+./wofikeepassxc.sh: line 3: let: =: syntax error: operand expected (error token is "=")
+
+(wofi:245741): Gtk-[1;33mWARNING[0m **: [34m09:02:57.034[0m: Theme parsing error: <data>:4:7: 'width' is not a valid property name
+
+(wofi:245741): Gtk-[1;35mCRITICAL[0m **: [34m09:02:57.049[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+
+(wofi:245741): Gtk-[1;35mCRITICAL[0m **: [34m09:02:57.068[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+
+(wofi:245741): Gtk-[1;35mCRITICAL[0m **: [34m09:02:57.074[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+
+(wofi:245741): Gtk-[1;35mCRITICAL[0m **: [34m09:02:59.207[0m: gtk_widget_get_visible: assertion 'GTK_IS_WIDGET (widget)' failed
+google
+./wofikeepassxc.sh: line 8: syntax error near unexpected token `('
+./wofikeepassxc.sh: line 8: `        let password = ($items | where key == $"($item)" | get val.0)'
+                                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;85;85m✖[0m [K[153C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m2s[0m [197D[?1h[?2004h
+Loading...[K[A[8D[32m./wofikeepassxc.sh[39m[1m;[0m[1B[K[A[21C[1B[2m    [0m[2m1[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m2[0m[2m  [0mcd scripts                                                                                                                                                                                      [K[K
+[2m    [0m[2m3[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m4[0m[2m  [0mchmod +x wofikeepassxc.sh                                                                                                                                                                       [K[K
+[2m    [0m[2m5[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m6[0m[2m  [0m./wofikeepassxc.sh                                                                                                                                                                              [K[K
+[2m    [0m[2m7[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"                                                                                                         [K[K
+[2m    [0m[2m8[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx" google                                                                                                  [K[K
+[2m    [0m[2m9[0m[2m  [0mll ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx                                                                                                                             [K[K
+[2m   [0m[2m10[0m[2m  [0mkeepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [K[K
+[J[7m   11  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[J[11A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m;[0m[K[134C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m2s[0m [178D
+[10B[7m   11  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[7m   11  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[11A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m;[0m[K[134C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m2s[0m [178D
+[J[A[21C[0m [?1l[?2004l
+[J[A[20C
+[J]2;./wofikeepassxc.sh]1;./wofikeepassxc.sh./wofikeepassxc.sh: line 2: let: =: syntax error: operand expected (error token is "=")
+./wofikeepassxc.sh: line 3: let: =: syntax error: operand expected (error token is "=")
+
+(wofi:245932): Gtk-[1;33mWARNING[0m **: [34m09:03:06.891[0m: Theme parsing error: <data>:4:7: 'width' is not a valid property name
+
+(wofi:245932): Gtk-[1;35mCRITICAL[0m **: [34m09:03:06.907[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+
+(wofi:245932): Gtk-[1;35mCRITICAL[0m **: [34m09:03:06.930[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+
+(wofi:245932): Gtk-[1;35mCRITICAL[0m **: [34m09:03:08.957[0m: gtk_widget_get_visible: assertion 'GTK_IS_WIDGET (widget)' failed
+google
+./wofikeepassxc.sh: line 10: syntax error near unexpected token `}'
+./wofikeepassxc.sh: line 10: `    }'
+                                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;85;85m✖[0m [K[153C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m2s[0m [197D[?1h[?2004h
+Loading...[K[A[8D[32m./wofikeepassxc.sh[39m[1m;[0m[1B[K[A[21C[1B[2m    [0m[2m1[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m2[0m[2m  [0mcd scripts                                                                                                                                                                                      [K[K
+[2m    [0m[2m3[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m4[0m[2m  [0mchmod +x wofikeepassxc.sh                                                                                                                                                                       [K[K
+[2m    [0m[2m5[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m6[0m[2m  [0m./wofikeepassxc.sh                                                                                                                                                                              [K[K
+[2m    [0m[2m7[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"                                                                                                         [K[K
+[2m    [0m[2m8[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx" google                                                                                                  [K[K
+[2m    [0m[2m9[0m[2m  [0mll ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx                                                                                                                             [K[K
+[2m   [0m[2m10[0m[2m  [0mkeepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [K[K
+[J[7m   11  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[J[11A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m;[0m[K[134C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m2s[0m [178D
+[10B[7m   11  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[7m   11  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[11A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m;[0m[K[134C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m2s[0m [178D
+[J[A[21C[0m [?1l[?2004l
+[J[A[20C
+[J]2;./wofikeepassxc.sh]1;./wofikeepassxc.sh./wofikeepassxc.sh: line 2: let: =: syntax error: operand expected (error token is "=")
+./wofikeepassxc.sh: line 3: let: =: syntax error: operand expected (error token is "=")
+
+(wofi:246148): Gtk-[1;33mWARNING[0m **: [34m09:03:23.570[0m: Theme parsing error: <data>:4:7: 'width' is not a valid property name
+
+(wofi:246148): Gtk-[1;35mCRITICAL[0m **: [34m09:03:23.585[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+
+(wofi:246148): Gtk-[1;35mCRITICAL[0m **: [34m09:03:23.603[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+
+(wofi:246148): Gtk-[1;35mCRITICAL[0m **: [34m09:03:23.609[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+
+(wofi:246148): Gtk-[1;35mCRITICAL[0m **: [34m09:03:31.412[0m: gtk_widget_get_visible: assertion 'GTK_IS_WIDGET (widget)' failed
+google
+./wofikeepassxc.sh: line 10: syntax error near unexpected token `}'
+./wofikeepassxc.sh: line 10: `    }'
+                                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;85;85m✖[0m [K[153C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m7s[0m [197D[?1h[?2004h
+Loading...[K[A[8D[32m./wofikeepassxc.sh[39m[1m;[0m[1B[K[A[21C[1B[2m    [0m[2m1[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m2[0m[2m  [0mcd scripts                                                                                                                                                                                      [K[K
+[2m    [0m[2m3[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m4[0m[2m  [0mchmod +x wofikeepassxc.sh                                                                                                                                                                       [K[K
+[2m    [0m[2m5[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m6[0m[2m  [0m./wofikeepassxc.sh                                                                                                                                                                              [K[K
+[2m    [0m[2m7[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"                                                                                                         [K[K
+[2m    [0m[2m8[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx" google                                                                                                  [K[K
+[2m    [0m[2m9[0m[2m  [0mll ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx                                                                                                                             [K[K
+[2m   [0m[2m10[0m[2m  [0mkeepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [K[K
+[J[7m   11  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[J[11A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m;[0m[K[134C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m7s[0m [178D
+[10B[7m   11  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[7m   11  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[11A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m;[0m[K[134C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m7s[0m [178D
+[J[A[21C[0m [?1l[?2004l
+[J[A[20C
+[J]2;./wofikeepassxc.sh]1;./wofikeepassxc.sh./wofikeepassxc.sh:2: bad math expression: operand expected at `='
+./wofikeepassxc.sh:3: bad math expression: operand expected at `='
+
+(wofi:246399): Gtk-[1;33mWARNING[0m **: [34m09:03:41.510[0m: Theme parsing error: <data>:4:7: 'width' is not a valid property name
+
+(wofi:246399): Gtk-[1;35mCRITICAL[0m **: [34m09:03:41.525[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+
+(wofi:246399): Gtk-[1;35mCRITICAL[0m **: [34m09:03:41.544[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+
+(wofi:246399): Gtk-[1;35mCRITICAL[0m **: [34m09:03:41.549[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+./wofikeepassxc.sh:10: parse error near `}'
+                                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;85;85m✖[0m [K[161C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[197D[?1h[?2004hj[32mj[39m
+[0;1;2mshell function[0m
+[J[0mj                 [Jjc                [Jjco               [Jjenv_prompt_info  [Jjo              [J[A[A[0m[27m[24m[2C[32mj[39m[K[160C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[196D
+Loading...[K[A[32mk[32meepassxc-cli[39m search [4m~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[24m google[1m;[0m[1B[K[A[95C[1B[2m    [0m[2m7[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSz[30;103mJ[0mKTIBbcXfO-lAQ2MoF.kdbx"                                                                                                         [K[K
+[2m    [0m[2m8[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSz[30;103mJ[0mKTIBbcXfO-lAQ2MoF.kdbx" google                                                                                                  [K[K
+[2m    [0m[2m9[0m[2m  [0mll ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSz[30;103mJ[0mKTIBbcXfO-lAQ2MoF.kdbx                                                                                                                             [K[K
+[J[7m   10  keepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [0m[K[J[4A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [4m~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[24m google[1m;[0m[K[68C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[104D
+[3B[7m   10  keepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [0m[K[7m   10  keepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [0m[K[4A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [4m~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[24m google[1m;[0m[K[68C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[104D
+[J[A[95C[0m [?1l[?2004l
+[J[A[94C
+[J]2;keepassxc-cli search  google]1;keepassxc-cliEnter password to unlock /home/pipshag/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx: 
+/Billigteknik Sweden AB/google.com
+/Billigteknik Sweden AB/google.com
+/Billigteknik Sweden AB/google.com
+/KeePassXC-Browser Passwords/Google
+                                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;121;198m♥[0m [K[153C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m4s[0m [197D[?1h[?2004h[4m[32m/home[1m[4m[32m/[0m[24m[39m
+[0;1;2mancestor directory[0m[K[K
+[J[7mhome/   [0m  [J[01;34mpipshag[0m/  [J[01;34m.config[0m/  [J[01;34mwofi[0m/   [J[A[A[0m[27m[24m[2C[4m[32m/home[1m[4m[32m/[0m[24m[39m[K[147C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m4s[0m [191D
+[1B[7mhome/   [0m  [7mhome/   [0m  [A[A[0m[27m[24m[2C[4m[32m/home[1m[4m[32m/[0m[24m[39m[K[147C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m4s[0m [191D
+[1B[7mhome/   [0m  [7mhome/   [0m  [A[A[0m[27m[24m[2C[4m[32m/home[1m[4m[32m/[0m[24m[39m[K[147C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m4s[0m [191D
+[J[A[8C[24m[39m [24m[39m [24m[39m [24m[39m [24m[39m [0m[24m[39m [?2004l
+[J                                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;121;198m♥[0m [K[161C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[197D[?1h[?2004h
+Loading...[K[A[8D[32mkeepassxc-cli[39m search [4m~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[24m google[1m;[0m[1B[K[A[95C[1B[2m    [0m[2m1[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m2[0m[2m  [0mcd scripts                                                                                                                                                                                      [K[K
+[2m    [0m[2m3[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m4[0m[2m  [0mchmod +x wofikeepassxc.sh                                                                                                                                                                       [K[K
+[2m    [0m[2m5[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m6[0m[2m  [0m./wofikeepassxc.sh                                                                                                                                                                              [K[K
+[2m    [0m[2m7[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"                                                                                                         [K[K
+[2m    [0m[2m8[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx" google                                                                                                  [K[K
+[2m    [0m[2m9[0m[2m  [0mll ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx                                                                                                                             [K[K
+[2m   [0m[2m10[0m[2m  [0mkeepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [K[K
+[2m   [0m[2m11[0m[2m  [0m./wofikeepassxc.sh                                                                                                                                                                              [K[K
+[J[7m   12  keepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [0m[K[J[12A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [4m~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[24m google[1m;[0m[K[68C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[104D
+[11B[7m   12  keepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [0m[K[7m   12  keepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [0m[K[12A[0m[27m[24m[2C[32mkeepassxc-cli[39m search [4m~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[24m google[1m;[0m[K[68C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[104D
+[J[A[95C[0m [?1l[?2004l
+[J[A[94C
+[J]2;keepassxc-cli search  google]1;keepassxc-cliEnter password to unlock /home/pipshag/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx: 
+/Billigteknik Sweden AB/google.com
+/Billigteknik Sweden AB/google.com
+/Billigteknik Sweden AB/google.com
+/KeePassXC-Browser Passwords/Google
+                                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;121;198m♥[0m [K[153C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m4s[0m [197D[?1h[?2004h.[32m.[39m[32m.[39m[90m/wofikeepassxc.sh[39m[17D
+[0;1;2mancestor directory[0m
+[J[01;34m/home/pipshag/.config[0m/[J[A[A[0m[27m[24m[2C[32m.[39m[90m/wofikeepassxc.sh[39m[K[135C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m4s[0m [196D[32m.[32m/[39m[4m[32m.[4m[32m/[24m[39m[30m[103m[39m[49m[30m[103m[39m[49m
+[J[0;1;2mexecutable file[0m
+[01;32mwofibluetooth.sh[0m*  [01;32mwofikeepassxc.sh[0m*  [01;32mwofipowermenu.py[0m*
+[J[0;2m[1mcommon substring:[0m [30m[103m./wofi[39m[49m[3A[0m[27m[24m[2C[4m[32m./[24m[39m[90mwofikeepassxc.sh[39m[K[135C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m4s[0m [195D[4m[32m.[4m[32m/[4m[32mw[24m[39m[39m[4m.[39m[4m/[39m[4mw[24m[30m[103m[39m[49m[30m[103m[39m[49m
+[J[0;1;2mexecutable file[0m
+[01;32mwofibluetooth.sh[0m*  [01;32mwofikeepassxc.sh[0m*  [01;32mwofipowermenu.py[0m*
+[J[0;2m[1mcommon substring:[0m [30m[103m./wofi[39m[49m[3A[0m[27m[24m[2C[4m./w[24m[90mofikeepassxc.sh[39m[K[135C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m4s[0m [194D[24m[32m.[24m[32m/[24m[32mw[32mo[32mf[32mi[32mb[32ml[32mu[32me[32mt[32mo[32mo[32mt[32mh[32m.[32ms[32mh[39m[30m[103m[39m[49m
+[0;1;2mexecutable file[0m[K[K
+[7mwofibluetooth.sh*[0m  [01;32mwofikeepassxc.sh[0m*  [01;32mwofipowermenu.py[0m*[K
+[J[0;2m[1mcommon substring:[0m [30m[103m./wofi[39m[49m[K[3A[0m[27m[24m[2C[32m./wofibluetooth.sh[39m[K[135C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m4s[0m [179D
+[1B[7mwofibluetooth.sh*[0m  [7mwofibluetooth.sh*[0m  [A[A[0m[27m[24m[2C[32m./wofibluetooth.sh[39m[K[135C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m4s[0m [179D[12D[32mk[32me[32me[32mp[32ma[32ms[32ms[32mx[32mc[3C[39m
+[1B[19C[7mwofikeepassxc.sh*[0m  [01;32mwofibluetooth.sh[0m*  [A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[K[135C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m4s[0m [179D
+[J[A[20C[1m [0m[30m[103m[39m[49m[30m[103m[39m[49m
+[J[0;1;2mfile[0m
+[01;32mwofibluetooth.sh[0m*  [01;32mwofikeepassxc.sh[0m*  [01;32mwofipowermenu.py[0m*
+[J[0;2m[1mcommon substring:[0m [30m[103mwofi[39m[49m[3A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m [0m[K[134C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m4s[0m [178D[0m [?1l[?2004l
+[J[A[20C
+[J]2;./wofikeepassxc.sh]1;./wofikeepassxc.sh./wofikeepassxc.sh:2: command not found: list
+./wofikeepassxc.sh:3: command not found: entry
+
+(wofi:248843): Gtk-[1;33mWARNING[0m **: [34m09:04:40.489[0m: Theme parsing error: <data>:4:7: 'width' is not a valid property name
+
+(wofi:248843): Gtk-[1;35mCRITICAL[0m **: [34m09:04:40.506[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+
+(wofi:248843): Gtk-[1;35mCRITICAL[0m **: [34m09:04:40.524[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+
+(wofi:248843): Gtk-[1;35mCRITICAL[0m **: [34m09:04:40.530[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+./wofikeepassxc.sh:10: parse error near `}'
+                                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;85;85m✖[0m [K[153C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m2s[0m [197D[?1h[?2004h
+Loading...[K[A[8D[32m./wofikeepassxc.sh[39m[1m;[0m[1B[K[A[21C[1B[2m    [0m[2m1[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m2[0m[2m  [0mcd scripts                                                                                                                                                                                      [K[K
+[2m    [0m[2m3[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m4[0m[2m  [0mchmod +x wofikeepassxc.sh                                                                                                                                                                       [K[K
+[2m    [0m[2m5[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m6[0m[2m  [0m./wofikeepassxc.sh                                                                                                                                                                              [K[K
+[2m    [0m[2m7[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"                                                                                                         [K[K
+[2m    [0m[2m8[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx" google                                                                                                  [K[K
+[2m    [0m[2m9[0m[2m  [0mll ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx                                                                                                                             [K[K
+[2m   [0m[2m10[0m[2m  [0mkeepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [K[K
+[2m   [0m[2m11[0m[2m  [0m./wofikeepassxc.sh                                                                                                                                                                              [K[K
+[2m   [0m[2m12[0m[2m  [0mkeepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [K[K
+[J[7m   13  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[J[13A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m;[0m[K[134C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m2s[0m [178D
+[12B[7m   13  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[7m   13  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[13A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m;[0m[K[134C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m2s[0m [178D
+[J[A[21C[0m [?1l[?2004l
+[J[A[20C
+[J]2;./wofikeepassxc.sh]1;./wofikeepassxc.sh./wofikeepassxc.sh:2: command not found: search
+./wofikeepassxc.sh:3: command not found: entry
+
+(wofi:249032): Gtk-[1;33mWARNING[0m **: [34m09:04:50.091[0m: Theme parsing error: <data>:4:7: 'width' is not a valid property name
+
+(wofi:249032): Gtk-[1;35mCRITICAL[0m **: [34m09:04:50.107[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+
+(wofi:249032): Gtk-[1;35mCRITICAL[0m **: [34m09:04:50.124[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+
+(wofi:249032): Gtk-[1;35mCRITICAL[0m **: [34m09:04:50.130[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+./wofikeepassxc.sh:10: parse error near `}'
+                                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;85;85m✖[0m [K[161C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[197D[?1h[?2004h
+Loading...[K[A[8D[32m./wofikeepassxc.sh[39m[1m;[0m[1B[K[A[21C[1B[2m    [0m[2m1[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m2[0m[2m  [0mcd scripts                                                                                                                                                                                      [K[K
+[2m    [0m[2m3[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m4[0m[2m  [0mchmod +x wofikeepassxc.sh                                                                                                                                                                       [K[K
+[2m    [0m[2m5[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m6[0m[2m  [0m./wofikeepassxc.sh                                                                                                                                                                              [K[K
+[2m    [0m[2m7[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"                                                                                                         [K[K
+[2m    [0m[2m8[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx" google                                                                                                  [K[K
+[2m    [0m[2m9[0m[2m  [0mll ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx                                                                                                                             [K[K
+[2m   [0m[2m10[0m[2m  [0mkeepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [K[K
+[2m   [0m[2m11[0m[2m  [0m./wofikeepassxc.sh                                                                                                                                                                              [K[K
+[2m   [0m[2m12[0m[2m  [0mkeepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [K[K
+[J[7m   13  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[J[13A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m;[0m[K[142C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[178D
+[12B[7m   13  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[7m   13  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[13A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m;[0m[K[142C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[178D
+[J[A[21C[0m [?1l[?2004l
+[J[A[20C
+[J]2;./wofikeepassxc.sh]1;./wofikeepassxc.sh./wofikeepassxc.sh:2: exec format error: /home/pipshag/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx
+./wofikeepassxc.sh:3: command not found: entry
+
+(wofi:249230): Gtk-[1;33mWARNING[0m **: [34m09:05:00.039[0m: Theme parsing error: <data>:4:7: 'width' is not a valid property name
+
+(wofi:249230): Gtk-[1;35mCRITICAL[0m **: [34m09:05:00.054[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+
+(wofi:249230): Gtk-[1;35mCRITICAL[0m **: [34m09:05:00.077[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+./wofikeepassxc.sh:10: parse error near `}'
+                                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;85;85m✖[0m [K[153C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m3s[0m [197D[?1h[?2004h 
+[J[A[3C a [1m[31ma[0m[39m
+[0;1;2mshell function[0m
+[J[0madd-zle-hook-widget  [Jadd-zsh-hook         [Jalias_value          [Jautojump_chpwd       [Jazure_prompt_info  [J[A[A[0m[27m[24m[2C [1m[31ma[0m[39m[K[151C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m3s[0m [195D [0m[39m 
+[J[A[3C 0 [1m[31m0[0m[39m
+[J[0;1;2mparameter[0m
+[J[0m0[J[A[A[0m[27m[24m[2C [1m[31m0[0m[39m[K[151C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m3s[0m [195D [1m[31m0[1m[31mi[0m[39m
+[J[0;1;2mexternal command[0m
+[J[0mindi_lx200_10micron  [Jindi_lx200basic      [Jindi_lx200classic    [Jindi_lx200gemini     [Jindi_lx200generic    [Jjs102-config       [J[A[A[0m[27m[24m[2C [1m[31m0i[0m[39m[K[150C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m3s[0m [194D
+Loading...[K[A [0m[32mk[0m[32me[32mepassxc-cli[39m search [4m~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[24m google[1m;[0m[1B[K[A[96C[1B[2m    [0m[2m7[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx[30;103m0[0muw1OfvaRWSzJKT[30;103mI[0mBbcXfO-lAQ2MoF.kdbx"                                                                                                         [K[K
+[2m    [0m[2m8[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx[30;103m0[0muw1OfvaRWSzJKT[30;103mI[0mBbcXfO-lAQ2MoF.kdbx" google                                                                                                  [K[K
+[2m    [0m[2m9[0m[2m  [0mll ~/Filarkiv/Keys/KeepassXC/1Kx[30;103m0[0muw1OfvaRWSzJKT[30;103mI[0mBbcXfO-lAQ2MoF.kdbx                                                                                                                             [K[K
+[2m   [0m[2m10[0m[2m  [0mkeepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx[30;103m0[0muw1OfvaRWSzJKT[30;103mI[0mBbcXfO-lAQ2MoF.kdbx google                                                                                                    [K[K
+[J[7m   12  keepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [0m[K[J[5A[0m[27m[24m[2C [32mkeepassxc-cli[39m search [4m~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[24m google[1m;[0m[K[59C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m3s[0m [103D
+[4B[7m   12  keepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [0m[K[7m   12  keepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [0m[K[5A[0m[27m[24m[2C [32mkeepassxc-cli[39m search [4m~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[24m google[1m;[0m[K[59C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m3s[0m [103D
+[J[A[96C[94D [39m0[39mi[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m         [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m        [0m [91D [1m[31m0[1m[31mi[0m[39m
+[J[0;1;2mexternal command[0m
+[J[0mindi_lx200_10micron  [Jindi_lx200basic      [Jindi_lx200classic    [Jindi_lx200gemini     [Jindi_lx200generic    [Jjs102-config       [J[A[A[0m[27m[24m[2C [1m[31m0i[0m[39m[K[150C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m3s[0m [194D[?2004l
+[J                                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;121;198m♥[0m [K[161C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[197D[?1h[?2004h.[32m.[39m[32m.[39m[90m/wofikeepassxc.sh[39m[17D
+[0;1;2mancestor directory[0m
+[J[01;34m/home/pipshag/.config[0m/[J[A[A[0m[27m[24m[2C[32m.[39m[90m/wofikeepassxc.sh[39m[K[143C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[196D[32m.[32m/[39m[4m[32m.[4m[32m/[24m[39m[30m[103m[39m[49m[30m[103m[39m[49m
+[J[0;1;2mexecutable file[0m
+[01;32mwofibluetooth.sh[0m*  [01;32mwofikeepassxc.sh[0m*  [01;32mwofipowermenu.py[0m*
+[J[0;2m[1mcommon substring:[0m [30m[103m./wofi[39m[49m[3A[0m[27m[24m[2C[4m[32m./[24m[39m[90mwofikeepassxc.sh[39m[K[143C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[195D[39mw[39mo[39mf[39mi[39mk[39me[39me[39mp[39ma[39ms[39ms[39mx[39mc[39m.[39ms[39mh[18D[24m[32m.[24m[32m/[32mw[32mo[32mf[32mi[32mk[32me[32me[32mp[32ma[32ms[32ms[32mx[32mc[32m.[32ms[32mh[39m
+[J[0;1;2mexecutable file[0m
+[J[01;32mwofikeepassxc.sh[0m*[J[A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[K[143C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[179D[?1l[?2004l
+[J[A[20C
+[J]2;./wofikeepassxc.sh]1;./wofikeepassxc.shInvalid command /home/pipshag/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx.
+Usage: /usr/bin/keepassxc-cli [options] command
+KeePassXC command line interface.
+
+Available commands:
+add                 Add a new entry to a database.
+analyze             Analyze passwords for weaknesses and problems.
+attachment-export   Export an attachment of an entry.
+attachment-import   Imports an attachment to an entry.
+attachment-rm       Remove an attachment of an entry.
+clip                Copy an entry's attribute to the clipboard.
+close               Close the currently opened database.
+db-create           Create a new database.
+db-edit             Edit a database.
+db-info             Show a database's information.
+diceware            Generate a new random diceware passphrase.
+edit                Edit an entry.
+estimate            Estimate the entropy of a password.
+export              Exports the content of a database to standard output in the specified format.
+generate            Generate a new random password.
+help                Display command help.
+import              Import the contents of an XML database.
+ls                  List database entries.
+merge               Merge two databases.
+mkdir               Adds a new group to a database.
+mv                  Moves an entry to a new group.
+open                Open a database.
+rm                  Remove an entry from the database.
+rmdir               Removes a group from a database.
+search              Find entries quickly.
+show                Show an entry's information.
+
+
+Options:
+  --debug-info   Displays debugging information.
+  -h, --help     Displays help on commandline options.
+  --help-all     Displays help including Qt specific options.
+  -v, --version  Displays version information.
+
+Arguments:
+  command        Name of the command to execute.
+./wofikeepassxc.sh:3: command not found: entry
+
+(wofi:249954): Gtk-[1;33mWARNING[0m **: [34m09:05:29.685[0m: Theme parsing error: <data>:4:7: 'width' is not a valid property name
+
+(wofi:249954): Gtk-[1;35mCRITICAL[0m **: [34m09:05:29.702[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+
+(wofi:249954): Gtk-[1;35mCRITICAL[0m **: [34m09:05:29.722[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+./wofikeepassxc.sh:10: parse error near `}'
+                                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;85;85m✖[0m [K[153C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m2s[0m [197D[?1h[?2004h
+Loading...[K[A[8D[32m./wofikeepassxc.sh[39m[1m;[0m[1B[K[A[21C[1B[2m    [0m[2m1[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m2[0m[2m  [0mcd scripts                                                                                                                                                                                      [K[K
+[2m    [0m[2m3[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m4[0m[2m  [0mchmod +x wofikeepassxc.sh                                                                                                                                                                       [K[K
+[2m    [0m[2m5[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m6[0m[2m  [0m./wofikeepassxc.sh                                                                                                                                                                              [K[K
+[2m    [0m[2m7[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"                                                                                                         [K[K
+[2m    [0m[2m8[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx" google                                                                                                  [K[K
+[2m    [0m[2m9[0m[2m  [0mll ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx                                                                                                                             [K[K
+[2m   [0m[2m10[0m[2m  [0mkeepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [K[K
+[2m   [0m[2m11[0m[2m  [0m./wofikeepassxc.sh                                                                                                                                                                              [K[K
+[2m   [0m[2m12[0m[2m  [0mkeepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [K[K
+[J[7m   13  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[J[13A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m;[0m[K[134C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m2s[0m [178D
+[12B[7m   13  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[7m   13  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[13A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m;[0m[K[134C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m2s[0m [178D
+[J[A[21C[0m [?1l[?2004l
+[J[A[20C
+[J]2;./wofikeepassxc.sh]1;./wofikeepassxc.sh./wofikeepassxc.sh:2: keepassxc-cli ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx not found
+                                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;85;85m✖[0m [K[161C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[197D[?1h[?2004h
+Loading...[K[A[8D[32m./wofikeepassxc.sh[39m[1m;[0m[1B[K[A[21C[1B[2m    [0m[2m1[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m2[0m[2m  [0mcd scripts                                                                                                                                                                                      [K[K
+[2m    [0m[2m3[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m4[0m[2m  [0mchmod +x wofikeepassxc.sh                                                                                                                                                                       [K[K
+[2m    [0m[2m5[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m6[0m[2m  [0m./wofikeepassxc.sh                                                                                                                                                                              [K[K
+[2m    [0m[2m7[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"                                                                                                         [K[K
+[2m    [0m[2m8[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx" google                                                                                                  [K[K
+[2m    [0m[2m9[0m[2m  [0mll ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx                                                                                                                             [K[K
+[2m   [0m[2m10[0m[2m  [0mkeepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [K[K
+[2m   [0m[2m11[0m[2m  [0m./wofikeepassxc.sh                                                                                                                                                                              [K[K
+[2m   [0m[2m12[0m[2m  [0mkeepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [K[K
+[J[7m   13  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[J[13A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m;[0m[K[142C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[178D
+[12B[7m   13  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[7m   13  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[13A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m;[0m[K[142C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[178D
+[J[A[21C[0m [?1l[?2004l
+[J[A[20C
+[J]2;./wofikeepassxc.sh]1;./wofikeepassxc.shInvalid command ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx.
+Usage: /usr/bin/keepassxc-cli [options] command
+KeePassXC command line interface.
+
+Available commands:
+add                 Add a new entry to a database.
+analyze             Analyze passwords for weaknesses and problems.
+attachment-export   Export an attachment of an entry.
+attachment-import   Imports an attachment to an entry.
+attachment-rm       Remove an attachment of an entry.
+clip                Copy an entry's attribute to the clipboard.
+close               Close the currently opened database.
+db-create           Create a new database.
+db-edit             Edit a database.
+db-info             Show a database's information.
+diceware            Generate a new random diceware passphrase.
+edit                Edit an entry.
+estimate            Estimate the entropy of a password.
+export              Exports the content of a database to standard output in the specified format.
+generate            Generate a new random password.
+help                Display command help.
+import              Import the contents of an XML database.
+ls                  List database entries.
+merge               Merge two databases.
+mkdir               Adds a new group to a database.
+mv                  Moves an entry to a new group.
+open                Open a database.
+rm                  Remove an entry from the database.
+rmdir               Removes a group from a database.
+search              Find entries quickly.
+show                Show an entry's information.
+
+
+Options:
+  --debug-info   Displays debugging information.
+  -h, --help     Displays help on commandline options.
+  --help-all     Displays help including Qt specific options.
+  -v, --version  Displays version information.
+
+Arguments:
+  command        Name of the command to execute.
+./wofikeepassxc.sh:3: command not found: entry
+
+(wofi:250605): Gtk-[1;33mWARNING[0m **: [34m09:06:24.003[0m: Theme parsing error: <data>:4:7: 'width' is not a valid property name
+
+(wofi:250605): Gtk-[1;35mCRITICAL[0m **: [34m09:06:24.020[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+
+(wofi:250605): Gtk-[1;35mCRITICAL[0m **: [34m09:06:24.042[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+./wofikeepassxc.sh:10: parse error near `}'
+                                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;85;85m✖[0m [K[161C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[197D[?1h[?2004h
+Loading...[K[A[8D[32m./wofikeepassxc.sh[39m[1m;[0m[1B[K[A[21C[1B[2m    [0m[2m1[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m2[0m[2m  [0mcd scripts                                                                                                                                                                                      [K[K
+[2m    [0m[2m3[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m4[0m[2m  [0mchmod +x wofikeepassxc.sh                                                                                                                                                                       [K[K
+[2m    [0m[2m5[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m6[0m[2m  [0m./wofikeepassxc.sh                                                                                                                                                                              [K[K
+[2m    [0m[2m7[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"                                                                                                         [K[K
+[2m    [0m[2m8[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx" google                                                                                                  [K[K
+[2m    [0m[2m9[0m[2m  [0mll ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx                                                                                                                             [K[K
+[2m   [0m[2m10[0m[2m  [0mkeepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [K[K
+[2m   [0m[2m11[0m[2m  [0m./wofikeepassxc.sh                                                                                                                                                                              [K[K
+[2m   [0m[2m12[0m[2m  [0mkeepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [K[K
+[J[7m   13  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[J[13A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m;[0m[K[142C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[178D
+[12B[7m   13  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[7m   13  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[13A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m;[0m[K[142C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[178D
+[J[A[21C[0m [?1l[?2004l
+[J[A[20C
+[J]2;./wofikeepassxc.sh]1;./wofikeepassxc.shusage: rofi-keepassxc [-h] [-d]
+
+  arguments:
+  -h, --help                show this help message and exit
+  -d, --database [file]     specify keepass database file path
+  -t, --timeout [value]      specify a timout in second for clipped password; default to 15 seconds
+
+                                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;121;198m♥[0m [K[161C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[197D[?1h[?2004h
+Loading...[K[A[8D[32m./wofikeepassxc.sh[39m[1m;[0m[1B[K[A[21C[1B[2m    [0m[2m1[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m2[0m[2m  [0mcd scripts                                                                                                                                                                                      [K[K
+[2m    [0m[2m3[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m4[0m[2m  [0mchmod +x wofikeepassxc.sh                                                                                                                                                                       [K[K
+[2m    [0m[2m5[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m6[0m[2m  [0m./wofikeepassxc.sh                                                                                                                                                                              [K[K
+[2m    [0m[2m7[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"                                                                                                         [K[K
+[2m    [0m[2m8[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx" google                                                                                                  [K[K
+[2m    [0m[2m9[0m[2m  [0mll ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx                                                                                                                             [K[K
+[2m   [0m[2m10[0m[2m  [0mkeepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [K[K
+[2m   [0m[2m11[0m[2m  [0m./wofikeepassxc.sh                                                                                                                                                                              [K[K
+[2m   [0m[2m12[0m[2m  [0mkeepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [K[K
+[J[7m   13  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[J[13A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m;[0m[K[142C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[178D
+[12B[7m   13  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[7m   13  ./wofikeepassxc.sh                                                                                                                                                                              [0m[K[13A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[1m;[0m[K[142C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[178D
+[J[A[21C[19D[39m.[39m/[39mw[39mo[39mf[39mi[39mk[39me[39me[39mp[39ma[39ms[39ms[39mx[39mc[39m.[39ms[39mh[1C[0m [18D[32m.[32m/[32mw[32mo[32mf[32mi[32mk[32me[32me[32mp[32ma[32ms[32ms[32mx[32mc[32m.[32ms[32mh[39m
+[J[0;1;2mexecutable file[0m
+[J[01;32mwofikeepassxc.sh[0m*[J[A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[K[143C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[179D[32mh[32m [39m
+[J[A[21C[32mh[39m[39m [30m[103m[39m[49m[30m[103m[39m[49m
+[J[0;1;2mfile[0m
+[01;32mwofibluetooth.sh[0m*  [01;32mwofikeepassxc.sh[0m*  [01;32mwofipowermenu.py[0m*
+[J[0;2m[1mcommon substring:[0m [30m[103mwofi[39m[49m[3A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[K[143C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[178D-[30m[103m[39m[49m[30m[103m[39m[49m
+[J[0;1;2mrecent directory[0m
+[34;42m/mnt/fireball/Kod/Sources/rbdrum2midi/cmake-modules[0m/  [01;34m~/.steam/steam/steamapps/compatdata/247080/pfx/drive_c[0m/  [34;42m/mnt/fireball/Kod/Sources/goose-zmk-config[0m/  [34;42m/mnt/fireball/Kod/Jobb/boba_se[0m/  
+[J[0;2m[1mcommon substring:[0m [30m[103me-[39m[49m[3A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -[K[141C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[177Dd
+[J[0;1;2mrecent directory[0m
+[J[34;42m/mnt/fireball/Kod/Sources/rbdrum2midi/cmake-modules[0m/  [J[34;42m~/Filarkiv/Video/[ak-Submarines] Girls und Panzer TV + OVAs [BD 1080p][0m/  [J[34;42m/mnt/fireball/Kod/Sources/RTLSDR-Airband[0m/  [J[A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d[K[140C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[176D 
+[J[A[24C[30m[103m[39m[49m[30m[103m[39m[49m
+[J[0;1;2mfile[0m
+[01;32mwofibluetooth.sh[0m*  [01;32mwofikeepassxc.sh[0m*  [01;32mwofipowermenu.py[0m*
+[J[0;2m[1mcommon substring:[0m [30m[103mwofi[39m[49m[3A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d[K[140C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[175D~[4m~[24m
+[J[0;1;2mnamed directory[0m
+[J[0mautocomplete      [Jautocomplete-log  [Jzsh-autocomplete[J[A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~[24m[K[138C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[174D[4m~[4m/[24m
+[J[0;1;2mdirectory[0m
+[01;34mDesktop[0m/       [01;34mDocuments[0m/     [01;34mDownloads[0m/     [34;42mFilarkiv[0m/      [01;34mMusic[0m/         [01;34mPictures[0m/      [01;34mPublic[0m/        [01;34mTemplates[0m/     [01;34mVideos[0m/        [01;34mintelephense[0m/  [01;34myay[0m/         
+[0;1;2mfile[0m
+[J[01;35mqrcode.png[0m[J[4A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/[24m[K[137C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[173D[4m/[4mF[24m
+[J[0;1;2mdirectory[0m
+[J[34;42mFilarkiv[0m/[J[A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/F[24m[K[136C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[172D[4mF[4mi[24m
+[J[0;1;2mdirectory[0m
+[J[34;42mFilarkiv[0m/[J[A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Fi[24m[K[135C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[171D[4mi[4mlarkiv[1m[4m/[0m[24m
+[J[0;1;2mdirectory[0m
+[J[34;42mFilarkiv[0m/[J[A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv[1m[4m/[0m[24m[K[128C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[164D
+[J[0;1;2mdirectory[0m
+[J[34;42mBilder[0m/    [J[34;42mDokument[0m/  [J[34;42mKeys[0m/      [J[34;42mMaria[0m/     [J[34;42mMjukvara[0m/  [J[34;42mMusik[0m/     [J[34;42mSpel[0m/      [J[34;42mVideo[0m/   [J[A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv[1m[4m/[0m[24m[K[128C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[164D[1m[4m/[1m[4mK[0m[24m[0m[4m/[0m[4mK[24m
+[J[0;1;2mdirectory[0m
+[J[34;42mKeys[0m/[J[A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/K[24m[K[127C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[163D[4mK[4meys[1m[4m/[0m[24m
+[J[0;1;2mdirectory[0m
+[J[34;42mKeys[0m/[J[A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys[1m[4m/[0m[24m[K[123C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[159D
+[J[0;1;2mdirectory[0m
+[34;42mKeepassXC[0m/  [34;42mssh[0m/      
+[0;1;2mfile[0m
+[J[01;32mPipshag.pgp[0m*[J[4A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys[1m[4m/[0m[24m[K[123C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[159D[1m[4m/[1m[4mK[0m[24m[0m[4m/[0m[4mK[24m
+[J[0;1;2mdirectory[0m
+[J[34;42mKeepassXC[0m/[J[A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys/K[24m[K[122C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[158D[4mK[4me[24m
+[J[0;1;2mdirectory[0m
+[J[34;42mKeepassXC[0m/[J[A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys/Ke[24m[K[121C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[157D[4me[4mepassXC[1m[4m/[0m[24m
+[J[0;1;2mdirectory[0m
+[J[34;42mKeepassXC[0m/[J[A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys/KeepassXC[1m[4m/[0m[24m[K[113C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[149D[30m[103m[39m[49m[30m[103m[39m[49m
+[J[0;1;2mfile[0m
+[01;32m1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[0m*  [01;32mpipshag.kdbx[0m*                          
+[J[0;2m[1mcommon substring:[0m [30m[103m~/Filarkiv/Keys/KeepassXC/.kdbx[39m[49m[3A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys/KeepassXC[1m[4m/[0m[24m[K[113C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[149D[0m[4m/[4m1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[24m[30m[103m[39m[49m
+[0;1;2mfile[0m[K[K
+[7m1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx*[0m  [01;32mpipshag.kdbx[0m*                          [K
+[J[0;2m[1mcommon substring:[0m [30m[103m~/Filarkiv/Keys/KeepassXC/.kdbx[39m[49m[K[3A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[24m[K[75C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[111D
+[1B[7m1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx*[0m  [7m1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx*[0m  [A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[24m[K[75C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[111D
+[J[A[88C[1m [0m[30m[103m[39m[49m[30m[103m[39m[49m
+[J[0;1;2mfile[0m
+[01;32mwofibluetooth.sh[0m*  [01;32mwofikeepassxc.sh[0m*  [01;32mwofipowermenu.py[0m*
+[J[0;2m[1mcommon substring:[0m [30m[103mwofi[39m[49m[3A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[24m[1m [0m[K[74C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[110D[0m [?1l[?2004l
+[J[A[88C
+[J]2;./wofikeepassxc.sh -d ]1;./wofikeepassxc.sh./wofikeepassxc.sh: line 3: rofi: command not found
+                                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;121;198m♥[0m [K[161C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[197D[?1h[?2004h
+Loading...[K[A[8D[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[24m[1m;[0m[1B[K[A[89C[1B[2m    [0m[2m1[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m2[0m[2m  [0mcd scripts                                                                                                                                                                                      [K[K
+[2m    [0m[2m3[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m4[0m[2m  [0mchmod +x wofikeepassxc.sh                                                                                                                                                                       [K[K
+[2m    [0m[2m5[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m6[0m[2m  [0m./wofikeepassxc.sh                                                                                                                                                                              [K[K
+[2m    [0m[2m7[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"                                                                                                         [K[K
+[2m    [0m[2m8[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx" google                                                                                                  [K[K
+[2m    [0m[2m9[0m[2m  [0mll ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx                                                                                                                             [K[K
+[2m   [0m[2m10[0m[2m  [0mkeepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [K[K
+[2m   [0m[2m11[0m[2m  [0m./wofikeepassxc.sh                                                                                                                                                                              [K[K
+[2m   [0m[2m12[0m[2m  [0mkeepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [K[K
+[2m   [0m[2m13[0m[2m  [0m./wofikeepassxc.sh                                                                                                                                                                              [K[K
+[J[7m   14  ./wofikeepassxc.sh -d ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx                                                                                                          [0m[K[J[14A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[24m[1m;[0m[K[74C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[110D
+[13B[7m   14  ./wofikeepassxc.sh -d ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx                                                                                                          [0m[K[7m   14  ./wofikeepassxc.sh -d ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx                                                                                                          [0m[K[14A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[24m[1m;[0m[K[74C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[110D
+[J[A[89C[87D[39m.[39m/[39mw[39mo[39mf[39mi[39mk[39me[39me[39mp[39ma[39ms[39ms[39mx[39mc[39m.[39ms[39mh[4C[24m~[24m/[24mF[24mi[24ml[24ma[24mr[24mk[24mi[24mv[24m/[24mK[24me[24my[24ms[24m/[24mK[24me[24me[24mp[24ma[24ms[24ms[24mX[24mC[24m/[24m1[24mK[24mx[24m0[24mu[24mw[24m1[24mO[24mf[24mv[24ma[24mR[24mW[24mS[24mz[24mJ[24mK[24mT[24mI[24mB[24mb[24mc[24mX[24mf[24mO[24m-[24ml[24mA[24mQ[24m2[24mM[24mo[24mF[24m.[24mk[24md[24mb[24mx[1C[0mi[87D[32m.[32m/[32mw[32mo[32mf[32mi[32mk[32me[32me[32mp[32ma[32ms[32ms[32mx[32mc[32m.[32ms[32mh[39m[69C
+[J[0;1;2mfile[0m
+[J[01;32m1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[0m*[J[A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbxi[K[74C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[110Di
+[J[0;1;2mfile[0m
+[J[01;32m1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[0m*[J[A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbxii[K[73C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[109D      [60D[4m~[4m/[4mF[4mi[4ml[4ma[4mr[4mk[4mi[4mv[4m/[4mK[4me[4my[4ms[4m/[4mK[4me[4me[4mp[4ma[4ms[4ms[4mX[4mC[4m/[4m1[4mK[4mx[4m0[4mu[4mw[4m1[4mO[4mf[4mv[4ma[4mR[4mW[4mS[4mz[4mJ[4mK[4mT[4mI[4mB[4mb[4mc[4mX[4mf[4mO[4m-[4ml[4mA[4mQ[4m2[4mM[4mo[4mF[4m.[24m
+[J[0;1;2mfile[0m
+[J[01;32m1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[0m*[J[A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.[24m[K[79C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[115D[9D[4m-[24m[24m [24m [24m [24m [24m [24m [24m [24m [8D
+[J[0;1;2mfile[0m
+[J[01;32m1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[0m*[J[A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-[24m[K[87C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[123D[27D[4m/[24m[24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [26D[30m[103m[39m[49m[30m[103m[39m[49m
+[J[0;1;2mfile[0m
+[01;32m1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[0m*  [01;32mpipshag.kdbx[0m*                          
+[J[0;2m[1mcommon substring:[0m [30m[103m~/Filarkiv/Keys/KeepassXC/.kdbx[39m[49m[3A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys/KeepassXC/[24m[K[113C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[149D[11D[4m/[24m[24m [24m [24m [24m [24m [24m [24m [24m [24m [24m [10D
+[J[0;1;2mdirectory[0m
+[34;42mKeepassXC[0m/  [34;42mssh[0m/      
+[0;1;2mfile[0m
+[J[01;32mPipshag.pgp[0m*[J[4A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys/[24m[K[123C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[159D[4m/[4mK[24m
+[J[0;1;2mdirectory[0m
+[J[34;42mKeepassXC[0m/[J[A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys/K[24m[K[122C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[158D[4mK[4me[24m
+[J[0;1;2mdirectory[0m
+[J[34;42mKeepassXC[0m/[J[A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys/Ke[24m[K[121C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[157D[4me[4me[24m
+[J[0;1;2mdirectory[0m
+[J[34;42mKeepassXC[0m/[J[A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys/Kee[24m[K[120C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[156D[4me[4mpassXC[1m[4m/[0m[24m
+[J[0;1;2mdirectory[0m
+[J[34;42mKeepassXC[0m/[J[A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys/KeepassXC[1m[4m/[0m[24m[K[113C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[149D[30m[103m[39m[49m[30m[103m[39m[49m
+[J[0;1;2mfile[0m
+[01;32m1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx[0m*  [01;32mpipshag.kdbx[0m*                          
+[J[0;2m[1mcommon substring:[0m [30m[103m~/Filarkiv/Keys/KeepassXC/.kdbx[39m[49m[3A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys/KeepassXC[1m[4m/[0m[24m[K[113C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[149D[1m[4m/[1m[4mp[0m[24m[0m[4m/[0m[4mp[24m
+[J[0;1;2mfile[0m
+[J[01;32mpipshag.kdbx[0m*[J[A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys/KeepassXC/p[24m[K[112C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[148D[4mp[4mi[24m
+[J[0;1;2mfile[0m
+[J[01;32mpipshag.kdbx[0m*[J[A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys/KeepassXC/pi[24m[K[111C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[147D[4mi[4mp[24m
+[J[0;1;2mfile[0m
+[J[01;32mpipshag.kdbx[0m*[J[A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys/KeepassXC/pip[24m[K[110C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[146D[4mp[4ms[24m
+[J[0;1;2mfile[0m
+[J[01;32mpipshag.kdbx[0m*[J[A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys/KeepassXC/pips[24m[K[109C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[145D[4ms[4mh[24m
+[J[0;1;2mfile[0m
+[J[01;32mpipshag.kdbx[0m*[J[A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys/KeepassXC/pipsh[24m[K[108C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[144D[4mh[4mag.kdbx[24m[1m [0m
+[J[0;1;2mfile[0m
+[J[01;32mpipshag.kdbx[0m*[J[A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys/KeepassXC/pipshag.kdbx[24m[1m [0m[K[100C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[136D[30m[103m[39m[49m[30m[103m[39m[49m
+[J[0;1;2mfile[0m
+[01;32mwofibluetooth.sh[0m*  [01;32mwofikeepassxc.sh[0m*  [01;32mwofipowermenu.py[0m*
+[J[0;2m[1mcommon substring:[0m [30m[103mwofi[39m[49m[3A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys/KeepassXC/pipshag.kdbx[24m[1m [0m[K[100C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[136D[0m [?1l[?2004l
+[J[A[62C
+[J]2;./wofikeepassxc.sh -d ~/Filarkiv/Keys/KeepassXC/pipshag.kdbx]1;./wofikeepassxc.shwofi: invalid option -- 'u'
+
+(wofi:252234): Gtk-[1;33mWARNING[0m **: [34m09:08:00.984[0m: Theme parsing error: <data>:4:7: 'width' is not a valid property name
+
+(wofi:252234): Gtk-[1;35mCRITICAL[0m **: [34m09:08:00.997[0m: gtk_flow_box_set_max_children_per_line: assertion 'n_children > 0' failed
+
+(wofi:252234): Gtk-[1;35mCRITICAL[0m **: [34m09:08:01.000[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+
+(wofi:252234): Gtk-[1;35mCRITICAL[0m **: [34m09:08:01.018[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+
+(wofi:252234): Gtk-[1;35mCRITICAL[0m **: [34m09:08:04.220[0m: gtk_widget_get_visible: assertion 'GTK_IS_WIDGET (widget)' failed
+grep: warning: ? at start of expression
+grep: warning: * at start of expression
+Enter password to unlock /home/pipshag/Filarkiv/Keys/KeepassXC/pipshag.kdbx: 
+Error while reading the database: Invalid credentials were provided, please try again.
+If this reoccurs, then your database file may be corrupt. (HMAC mismatch)
+wofi: invalid option -- 'u'
+
+(wofi:254600): Gtk-[1;33mWARNING[0m **: [34m09:08:10.177[0m: Theme parsing error: <data>:4:7: 'width' is not a valid property name
+
+(wofi:254600): Gtk-[1;35mCRITICAL[0m **: [34m09:08:10.190[0m: gtk_flow_box_set_max_children_per_line: assertion 'n_children > 0' failed
+
+(wofi:254600): Gtk-[1;35mCRITICAL[0m **: [34m09:08:10.193[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+
+(wofi:254600): Gtk-[1;35mCRITICAL[0m **: [34m09:08:10.213[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+                                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;85;85m✖[0m [K[152C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m10s[0m [197D[?1h[?2004h
+Loading...[K[A[8D[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys/KeepassXC/pipshag.kdbx[24m[1m;[0m[1B[K[A[63C[1B[2m    [0m[2m1[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m2[0m[2m  [0mcd scripts                                                                                                                                                                                      [K[K
+[2m    [0m[2m3[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m4[0m[2m  [0mchmod +x wofikeepassxc.sh                                                                                                                                                                       [K[K
+[2m    [0m[2m5[0m[2m  [0mls                                                                                                                                                                                              [K[K
+[2m    [0m[2m6[0m[2m  [0m./wofikeepassxc.sh                                                                                                                                                                              [K[K
+[2m    [0m[2m7[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx"                                                                                                         [K[K
+[2m    [0m[2m8[0m[2m  [0mkeepassxc-cli search "~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx" google                                                                                                  [K[K
+[2m    [0m[2m9[0m[2m  [0mll ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx                                                                                                                             [K[K
+[2m   [0m[2m10[0m[2m  [0mkeepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [K[K
+[2m   [0m[2m11[0m[2m  [0m./wofikeepassxc.sh                                                                                                                                                                              [K[K
+[2m   [0m[2m12[0m[2m  [0mkeepassxc-cli search ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx google                                                                                                    [K[K
+[2m   [0m[2m13[0m[2m  [0m./wofikeepassxc.sh                                                                                                                                                                              [K[K
+[2m   [0m[2m14[0m[2m  [0m./wofikeepassxc.sh -d ~/Filarkiv/Keys/KeepassXC/1Kx0uw1OfvaRWSzJKTIBbcXfO-lAQ2MoF.kdbx                                                                                                          [K[K
+[J[7m   15  ./wofikeepassxc.sh -d ~/Filarkiv/Keys/KeepassXC/pipshag.kdbx                                                                                                                                    [0m[K[J[15A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys/KeepassXC/pipshag.kdbx[24m[1m;[0m[K[91C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m10s[0m [136D
+[14B[7m   15  ./wofikeepassxc.sh -d ~/Filarkiv/Keys/KeepassXC/pipshag.kdbx                                                                                                                                    [0m[K[7m   15  ./wofikeepassxc.sh -d ~/Filarkiv/Keys/KeepassXC/pipshag.kdbx                                                                                                                                    [0m[K[15A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m -d [4m~/Filarkiv/Keys/KeepassXC/pipshag.kdbx[24m[1m;[0m[K[91C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m10s[0m [136D
+[J[A[63C[0m [?1l[?2004l
+[J[A[62C
+[J]2;./wofikeepassxc.sh -d ~/Filarkiv/Keys/KeepassXC/pipshag.kdbx]1;./wofikeepassxc.shwofi: invalid option -- 'u'
+
+(wofi:254712): Gtk-[1;33mWARNING[0m **: [34m09:08:18.924[0m: Theme parsing error: <data>:4:7: 'width' is not a valid property name
+
+(wofi:254712): Gtk-[1;35mCRITICAL[0m **: [34m09:08:18.938[0m: gtk_flow_box_set_max_children_per_line: assertion 'n_children > 0' failed
+
+(wofi:254712): Gtk-[1;35mCRITICAL[0m **: [34m09:08:18.941[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+
+(wofi:254712): Gtk-[1;35mCRITICAL[0m **: [34m09:08:18.959[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+
+(wofi:254712): Gtk-[1;35mCRITICAL[0m **: [34m09:08:21.844[0m: gtk_widget_get_visible: assertion 'GTK_IS_WIDGET (widget)' failed
+grep: warning: ? at start of expression
+grep: warning: * at start of expression
+Enter password to unlock /home/pipshag/Filarkiv/Keys/KeepassXC/pipshag.kdbx: 
+wofi: invalid option -- 'u'
+
+(wofi:257072): Gtk-[1;33mWARNING[0m **: [34m09:08:27.879[0m: Theme parsing error: <data>:4:7: 'width' is not a valid property name
+
+(wofi:257072): Gtk-[1;35mCRITICAL[0m **: [34m09:08:27.890[0m: gtk_flow_box_set_max_children_per_line: assertion 'n_children > 0' failed
+
+(wofi:257072): Gtk-[1;35mCRITICAL[0m **: [34m09:08:27.896[0m: gtk_widget_set_size_request: assertion 'height >= -1' failed
+                                                                                                                                                                                                        ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;121;198m♥[0m [K[152C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m21s[0m [197D[?1h[?2004h.[32m.[39m[32m.[39m[90m/wofikeepassxc.sh -d ~/Filarkiv/Keys/KeepassXC/pipshag.kdbx[39m[59D
+[0;1;2mancestor directory[0m
+[J[01;34m/home/pipshag/.config[0m/[J[A[A[0m[27m[24m[2C[32m.[39m[90m/wofikeepassxc.sh -d ~/Filarkiv/Keys/KeepassXC/pipshag.kdbx[39m[K[92C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m21s[0m [196D[32m.[32m/[39m[4m[32m.[4m[32m/[24m[39m[30m[103m[39m[49m[30m[103m[39m[49m
+[J[0;1;2mexecutable file[0m
+[01;32mwofibluetooth.sh[0m*  [01;32mwofikeepassxc.sh[0m*  [01;32mwofipowermenu.py[0m*
+[J[0;2m[1mcommon substring:[0m [30m[103m./wofi[39m[49m[3A[0m[27m[24m[2C[4m[32m./[24m[39m[90mwofikeepassxc.sh -d ~/Filarkiv/Keys/KeepassXC/pipshag.kdbx[39m[K[92C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m21s[0m [195D[24m[32m.[24m[32m/[32mw[32mo[32mf[32mi[32mb[32ml[32mu[32me[32mt[32mo[32mo[32mt[32mh[32m.[32ms[32mh[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [42D[30m[103m[39m[49m
+[0;1;2mexecutable file[0m[K[K
+[7mwofibluetooth.sh*[0m  [01;32mwofikeepassxc.sh[0m*  [01;32mwofipowermenu.py[0m*[K
+[J[0;2m[1mcommon substring:[0m [30m[103m./wofi[39m[49m[K[3A[0m[27m[24m[2C[32m./wofibluetooth.sh[39m[K[134C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m21s[0m [179D
+[1B[7mwofibluetooth.sh*[0m  [7mwofibluetooth.sh*[0m  [A[A[0m[27m[24m[2C[32m./wofibluetooth.sh[39m[K[134C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m21s[0m [179D[12D[32mk[32me[32me[32mp[32ma[32ms[32ms[32mx[32mc[3C[39m
+[1B[19C[7mwofikeepassxc.sh*[0m  [01;32mwofibluetooth.sh[0m*  [A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[K[134C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m21s[0m [179D[0m[27m[24m[J[38;2;255;121;198m♥[0m [32m./wofikeepassxc.sh[39m[K[137C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m21s[0m [182D[30m[103m[39m[49m
+[0;1;2mexecutable file[0m[K[K
+[01;32mwofibluetooth.sh[0m*  [7mwofikeepassxc.sh*[0m  [01;32mwofipowermenu.py[0m*[K
+[J[0;2m[1mcommon substring:[0m [30m[103m./wofi[39m[49m[K[3A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[K[137C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m21s[0m [182D[0m[27m[24m[J[38;2;255;121;198m♥[0m [32m./wofikeepassxc.sh[39m[K[137C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m21s[0m [182D[30m[103m[39m[49m
+[0;1;2mexecutable file[0m[K[K
+[01;32mwofibluetooth.sh[0m*  [7mwofikeepassxc.sh*[0m  [01;32mwofipowermenu.py[0m*[K
+[J[0;2m[1mcommon substring:[0m [30m[103m./wofi[39m[49m[K[3A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[K[137C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m21s[0m [182D
+[1B[19C[7mwofikeepassxc.sh*[0m  [19C[7mwofikeepassxc.sh*[0m  [A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[K[137C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m21s[0m [182D
+[1B[19C[7mwofikeepassxc.sh*[0m  [19C[7mwofikeepassxc.sh*[0m  [A[A[0m[27m[24m[2C[32m./wofikeepassxc.sh[39m[K[137C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m21s[0m [182D
+[J[A[20C[18D[39m.[39m/[39mw[39mo[39mf[39mi[39mk[39me[39me[39mp[39ma[39ms[39ms[39mx[39mc[39m.[39ms[39mh[90mwofikeepassxc.sh -d ~/Filarkiv/Keys/KeepassXC/pipshag.kdbx[39m[58D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [59D[17D[1m[31m.[1m[31m/[1m[31mw[1m[31mo[1m[31mf[1m[31mi[1m[31mk[1m[31me[1m[31me[1m[31mp[1m[31ma[1m[31ms[1m[31ms[1m[31mx[1m[31mc[1m[31m.[1m[31ms[0m[39m[90mh -d ~/Filarkiv/Keys/KeepassXC/pipshag.kdbx[39m[43D[1m[31m.[0m[39m[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [44D[90msh -d ~/Filarkiv/Keys/KeepassXC/pipshag.kdbx[39m[44D
+[J[J[0;2mno matching `executable file', `suffix alias', `ancestor directory', `recent directory', or `corrections' completions[0m[A[0m[27m[24m[2C[1m[31m./wofikeepassxc.[0m[39m[90msh -d ~/Filarkiv/Keys/KeepassXC/pipshag.kdbx[39m[K[95C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0mtook [1;38;2;241;250;140m21s[0m [184D[?2004l
+[J                                                                                                                                                                                                           ]2;pipshag@sputnik:~/.config/wofi/scripts]1;../wofi/scripts]7;file://sputnik/home/pipshag/.config/wofi/scripts\[0m[27m[24m[J[38;2;255;121;198m♥[0m [K[164C[1;38;2;80;250;123m.config/wofi/scripts[0m via [1;33m🐍 [0m[1;33m[0m[1;33mv3.11.8[0m[1;33m [0m[200D[?1h[?2004h
+Script done on 2024-04-08 09:10:57+02:00 [COMMAND_EXIT_CODE="0"]

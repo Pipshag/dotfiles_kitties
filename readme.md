@@ -20,11 +20,11 @@ For nvim the catppuccin macchiato color scheme is a good match.
 
 ### Screenshots
 
-![waybar](/screenshots/screenshot_waybar.png?raw=true)
-![kitty](/screenshots/screenshot_kitty.png?raw=true)
-![wofi](/screenshots/screenshot_wofi.png?raw=true)
-![cava](/screenshots/screenshot_cava.png?raw=true)
-![nvim](/screenshots/screenshot_nvim.png?raw=true)
+[![waybar](/screenshots/screenshot_waybar.resized.png?raw=true)](/screenshots/screenshot_waybar.png)
+[![kitty](/screenshots/screenshot_kitty.resized.png?raw=true)](/screenshots/screenshot_kitty.png)
+[![wofi](/screenshots/screenshot_wofi.resized.png?raw=true)](/screenshots/screenshot_wofi.png)
+[![cava](/screenshots/screenshot_cava.resized.png?raw=true)](/screenshots/screenshot_cava.png)
+[![nvim](/screenshots/screenshot_nvim.resized.png?raw=true)](/screenshots/screenshot_nvim.png)
 
 ## waybar
 
